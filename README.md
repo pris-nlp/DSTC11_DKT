@@ -1,4 +1,8 @@
+# Discovering New Intents with Deep Aligned Clustering
+A deep aligned clustering method to discover new intents. 
 
+## Introduction
+This repository provides the official PyTorch implementation of the research paper [Discovering New Intents with Deep Aligned Clustering](https://arxiv.org/pdf/2012.08987.pdf) (**Accepted by [AAAI2021](https://aaai.org/Conferences/AAAI-21/)**).
 
 ### Dependencies 
 

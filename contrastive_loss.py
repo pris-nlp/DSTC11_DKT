@@ -575,8 +575,6 @@ class MaskInstanceLoss(nn.Module):
         return loss
 
 
-
-
 class InstanceLoss(nn.Module):
     def __init__(self, batch_size, temperature, device):
         super(InstanceLoss, self).__init__()
@@ -618,10 +616,6 @@ class InstanceLoss(nn.Module):
         loss /= N
 
         return loss
-
-
-
-
 
 class ClusterLoss(nn.Module):
     def __init__(self, class_num, temperature, device):
@@ -671,3 +665,50 @@ class ClusterLoss(nn.Module):
         loss /= N
 
         return loss + ne_loss
+
+class Cluster_KL_Loss(nn.Module):
+    def __init__(self):
+        super(Cluster_KL_Loss, self).__init__()
+        self.cluster_loss = nn.KLDivLoss(size_average=False)
+        self.kcl = KCL()
+
+    def local_consistency(self, cluster_output_01, cluster_output_02, criterion):
+        lds1 = criterion(cluster_output_01, cluster_output_02)
+        return lds1
+
+    def forward(self, cluster_output_01, cluster_output_02):
+        target_01 = target_distribution(cluster_output_01).detach()
+        target_02 = target_distribution(cluster_output_02).detach()
+
+        cluster_loss_01 = self.cluster_loss((cluster_output_01 + 1e-08).log(), target_01) / cluster_output_01.shape[0]
+        cluster_loss_02 = self.cluster_loss((cluster_output_02 + 1e-08).log(), target_02) / cluster_output_02.shape[0]
+
+        regular_loss = self.local_consistency(cluster_output_01, cluster_output_02, self.kcl)
+        loss = (cluster_loss_01 + cluster_loss_02) / 2 + regular_loss
+        return loss
+
+def target_distribution(batch: torch.Tensor) -> torch.Tensor:
+    weight = (batch ** 2) / (torch.sum(batch, 0) + 1e-9)
+    return (weight.t() / torch.sum(weight, 1)).t()
+
+eps = 1e-8
+class KLDiv(nn.Module):
+    def forward(self, predict, target):
+        assert predict.ndimension()==2,'Input dimension must be 2'
+        target = target.detach()
+        p1 = predict + eps
+        t1 = target + eps
+        logI = p1.log()
+        logT = t1.log()
+        TlogTdI = target * (logT - logI)
+        kld = TlogTdI.sum(1)
+        return kld
+
+class KCL(nn.Module):
+    def __init__(self):
+        super(KCL,self).__init__()
+        self.kld = KLDiv()
+
+    def forward(self, prob1, prob2):
+        kld = self.kld(prob1, prob2)
+        return kld.mean()

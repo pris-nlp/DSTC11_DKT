@@ -6,36 +6,42 @@ class PretrainModelManager:
     
     def __init__(self, args, data):
         set_seed(args.seed)
+        params = {
+            "queue_size": 1280,
+            "top_k": 3,
+            "end_k": 0,
+            "contrastive_rate": 0.1,
+            "memory_bank": True,
+            "positive_num": 10
 
-        self.model = BertForModel.from_pretrained(args.bert_model, num_labels = data.n_known_cls)
+        }  # 训练相关的超参数
+        self.positive_num = 10
+
+        #self.model = BertForModel.from_pretrained(args.bert_model, num_labels = data.n_known_cls)
+        backbone = SentenceTransformer(args.bert_model)
+        self.model = MPnetForModel(backbone, num_labels=data.n_known_cls)
         print(self.model)
         if args.freeze_bert_parameters:
             self.freeze_parameters(self.model)
+
+        self.negative_data = self.create_negative_dataset(data, args)
+        self.negative_keys = list(self.negative_data.keys())  # 维护一个训练集的“标签-样本”索引表
 
         os.environ["CUDA_VISIBLE_DEVICES"] = args.gpu_id           
         self.device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
         print(self.device)
         self.model.to(self.device)
-        #n_gpu = torch.cuda.device_count()
-        #if n_gpu > 1:
-        #    self.model = torch.nn.DataParallel(self.model)
 
-        self.num_train_optimization_steps = int(len(data.train_labeled_examples.train_x) / args.pre_train_batch_size) * args.num_pretrain_epochs
-        
+        self.num_train_optimization_steps = len(data.pretrain_dataloader) * args.num_train_epochs
         self.optimizer = self.get_optimizer(args)
         
         self.best_eval_score = 0
         self.analysis_results = {}
 
-
-    def load_models(self, args):
-        print("loading models ....")
-        self.model = self.restore_model_v2(args, self.model)
-
     def create_negative_dataset(self, data, args):
         negative_dataset = {}
-        train_dataset = data.train_labeled_examples
-        all_IND_data = data.get_embedding(train_dataset, data.known_label_list, args, "train")
+        train_dataset = data.pretrain_all_examples
+        all_IND_data = data.get_embedding(train_dataset, data.all_label_list_pretraining, args, "train")
         #print(all_IND_data)
 
         for line in all_IND_data:
@@ -125,49 +131,17 @@ class PretrainModelManager:
         return acc
 
 
-    def analysis(self, args, data):
-        self.model.eval()
-        test_dataloader = data.train_labeled_dataloader
-        total_features = torch.empty((0, args.feat_dim)).to(self.device)
-        total_labels = torch.empty(0, dtype=torch.long).to(self.device)
-        total_logits = torch.empty((0, data.n_known_cls)).to(self.device)
-
-        for batch in tqdm(test_dataloader, desc="Iteration"):
-            batch = tuple(t.to(self.device) for t in batch)
-            input_ids, input_mask, segment_ids, label_ids = batch
-            with torch.set_grad_enabled(False):
-                feat, logits = self.model(batch, mode='eval')
-                total_features = torch.cat((total_features, feat))
-                total_labels = torch.cat((total_labels, label_ids))
-                total_logits = torch.cat((total_logits, logits))
-
-        total_probs, total_preds = F.softmax(total_logits.detach(), dim=1).max(dim=1)
-        x_feats = total_features.cpu().numpy()
-        y_pred = total_preds.cpu().numpy()
-        y_true = total_labels.cpu().numpy()
-
-        min_d, max_d, mean_d, _ = intra_distance(x_feats, y_true, data.n_known_cls)
-        self.analysis_results["intra_distance"] = mean_d
-        min_d, max_d, mean_d, _ = inter_distance(x_feats, y_true, data.n_known_cls)
-        self.analysis_results["inter_distance"] = mean_d
-        acc = round(accuracy_score(y_true, y_pred) * 100, 2)
-        print("accuracy:", acc)
-
-        return acc
-
-
-
     def eval(self, args, data):
         self.model.eval()
         total_features = torch.empty((0, 768)).to(self.device)
         total_labels = torch.empty(0,dtype=torch.long).to(self.device)
         total_logits = torch.empty((0, data.n_known_cls)).to(self.device)
         
-        for batch in tqdm(data.eval_labeled_dataloader, desc="Iteration"):
+        for batch in tqdm(data.pretrain_dataloader_eval, desc="Iteration"):
             batch = tuple(t.to(self.device) for t in batch)
             input_ids, input_mask, segment_ids, label_ids = batch
             with torch.set_grad_enabled(False):
-                feat, logits = self.model(batch, mode = 'eval')
+                logits, feat = self.model.forward_cluster(batch)
                 total_features = torch.cat((total_features, feat))
                 total_labels = torch.cat((total_labels, label_ids))
                 total_logits = torch.cat((total_logits, logits))
@@ -191,9 +165,12 @@ class PretrainModelManager:
             tr_loss = 0
             nb_tr_examples, nb_tr_steps = 0, 0
             
-            for step, batch in enumerate(tqdm(data.train_labeled_dataloader, desc="Iteration")):
+            for step, batch in enumerate(tqdm(data.pretrain_dataloader, desc="Iteration")):
                 batch = tuple(t.to(self.device) for t in batch)
                 input_ids, input_mask, segment_ids, label_ids = batch
+
+                #positive_sample = self.generate_positive_sample(label_ids)  # 从memory bank 获取一部分正样本
+                #positive_sample = self._prepare_inputs(positive_sample)
 
                 with torch.set_grad_enabled(True):
                     loss = self.model(batch, mode = "pre-trained")
@@ -223,7 +200,10 @@ class PretrainModelManager:
                 
         self.model = best_model
         if args.save_model:
-            self.save_model(args)
+            if not os.path.exists(args.pretrain_dir):
+                os.makedirs(args.pretrain_dir)
+            model_file = os.path.join(args.pretrain_dir, "model_scl_1.pt")
+            torch.save(self.model, model_file)
 
     def get_optimizer(self, args):
         param_optimizer = list(self.model.named_parameters())
@@ -251,7 +231,7 @@ class PretrainModelManager:
             f.write(self.save_model.config.to_json_string())
 
     def freeze_parameters(self,model):
-        for name, param in model.bert.named_parameters():  
+        for name, param in model.sentbert.named_parameters():
             param.requires_grad = False
             if "encoder.layer.11" in name or "pooler" in name:
                 param.requires_grad = True

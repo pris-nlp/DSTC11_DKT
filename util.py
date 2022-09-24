@@ -18,10 +18,12 @@ from tqdm import tqdm_notebook, trange, tqdm
 from pytorch_pretrained_bert.optimization import BertAdam
 from pytorch_pretrained_bert.modeling import WEIGHTS_NAME,CONFIG_NAME,BertPreTrainedModel,BertModel
 from pytorch_pretrained_bert.tokenization import BertTokenizer
+from sentence_transformers import SentenceTransformer
 from torch.utils.data import (DataLoader, RandomSampler, SequentialSampler, TensorDataset)
 from datetime import datetime
 from sklearn.cluster import KMeans
 from sklearn.metrics import confusion_matrix,normalized_mutual_info_score, adjusted_rand_score, accuracy_score
+from sklearn.metrics import f1_score, precision_score, recall_score
 from scipy.optimize import linear_sum_assignment
 from sklearn import metrics
 from sklearn.manifold import TSNE
@@ -42,10 +44,35 @@ def clustering_accuracy_score(y_true, y_pred):
     acc = sum([w[i, j] for i, j in ind]) / y_pred.size
     return acc
 
+def cluster_F1(y_true, y_pred):
+    ind, _ = hungray_aligment(y_true, y_pred)
+    map_ = {i[0]: i[1] for i in ind}
+    y_pred_aligned = np.array([map_[idx] for idx in y_pred])
+    F1_score = f1_score(y_true, y_pred_aligned, average='weighted')
+    return F1_score
+
+def cluster_precision(y_true, y_pred):
+    ind, _ = hungray_aligment(y_true, y_pred)
+    map_ = {i[0]: i[1] for i in ind}
+    y_pred_aligned = np.array([map_[idx] for idx in y_pred])
+    precision = precision_score(y_true, y_pred_aligned, average='weighted')
+    return precision
+
+def cluster_recall(y_true, y_pred):
+    ind, _ = hungray_aligment(y_true, y_pred)
+    map_ = {i[0]: i[1] for i in ind}
+    y_pred_aligned = np.array([map_[idx] for idx in y_pred])
+    recall = recall_score(y_true, y_pred_aligned, average='weighted')
+    return recall
+
 def clustering_score(y_true, y_pred):
     return {'ACC': round(clustering_accuracy_score(y_true, y_pred)*100, 2),
             'ARI': round(adjusted_rand_score(y_true, y_pred)*100, 2),
-            'NMI': round(normalized_mutual_info_score(y_true, y_pred)*100, 2)}
+            'NMI': round(normalized_mutual_info_score(y_true, y_pred)*100, 2),
+            'F1': round(cluster_F1(y_true, y_pred)*100, 2),
+            'pre': round(cluster_precision(y_true, y_pred) * 100, 2),
+            'recall': round(cluster_recall(y_true, y_pred) * 100, 2)
+            }
 
 
 def pca_visualization(X: np.ndarray,
