@@ -1,0 +1,2154 @@
+text	label
+I lost my bill, help me see it	check_invoices
+i got an error message when i attempted to pay, but i was charged anyway	payment_issue
+I haven't got an account, what should I do to create one?	create_account
+what information can you tell me about seeing a bill?	get_invoice
+i wanna know if i could modify my order, please	change_order
+I'm not happy with the service, can I lodge a consumer complaint?	complaint
+tell me how I can get some bills	get_invoice
+check my order	track_order
+I have a question, speak with Customer Service	contact_customer_service
+the event was cancelled, how do I get a reimbursement?	get_refund
+im not happy with the service, i need help submitting a complaint	complaint
+I would like to leave an opinion for a service	review
+can you tell me the phone number to contact Customer Support?	contact_customer_service
+can u ask an agent how to contact fucking customer service?	contact_customer_service
+I want to know how I can check my shipment	track_order
+i want to see cancellation penaltgies, can u help me?	check_cancellation_fee
+can u ask an agent how soon i can expect my ticket	delivery_period
+I purchased something, what should I do to change my order?	change_order
+I would like to notify an issue paying, could you help me?	payment_issue
+I don't want my user account, how can I delete it?	delete_account
+I wanna see an bill	get_invoice
+I changed my mind, how do I delete my profile?	delete_account
+ask an agent how to see the status of my refund	track_refund
+do I get a full refund if I cancel my tickets?	check_refund_policy
+can I own more than one account?	create_account
+I want to check my delivery, tell me how to do it	track_order
+i got an error message when i attempted to pay, but my card was charged anyway, i need help informing of it	payment_issue
+I forgot my account password, what do I have to do to recover it?	recover_password
+can u ask an agent where to check my shipments?	track_order
+I can't remember my account password, what should I do?	recover_password
+I lost my invoices, show them	check_invoices
+I got an error message when I tried to make a payment, but I was charged anyway, how do I report it?	payment_issue
+where do I inform of an issue with my payment?	payment_issue
+tell me if I can own more than one profile	create_account
+I can't understand you, what do I have to do to talk to a person?	contact_human_agent
+I have no user account , can I open one?	create_account
+ive got no account, help me register	create_account
+how can I notify an issue making a payment?	payment_issue
+you're nit helping, can I speak with a human agent?	contact_human_agent
+where do I see an invoice?	get_invoice
+could you tell me if i can create more than one profile with a single email, please?	create_account
+I need help seeing the cancellation penalties	check_cancellation_fee
+i want to create a user account, what can i do?	create_account
+I need information, can I send an email to Customer Service?	contact_customer_service
+can u get some invoices?	get_invoice
+please, ask an agent if icould inform of a fucking payment issue	payment_issue
+can u ask an agent if i can solve an issue with my payment?	payment_issue
+what information do you have about receiving the newsletter?	newsletter_subscription
+can u ask an agent whats the delivery period for my ticket?	delivery_period
+i want to solve a paymentissue , what do i have to do?	payment_issue
+can i create moe than one user account with a single email?	create_account
+I want to submit a review for a service, what can I do?	review
+I ordered something and Id like to change my order	change_order
+I want to request information about downloading a bill	get_invoice
+tell me how sono I can expect my tickets	delivery_period
+I need a reimbursement, what can I do?	get_refund
+the concert was postponed, can you help me?	get_refund
+could u ask an agent where to inform of problems with my payment, please?	payment_issue
+when will I get a reimbursement?	get_refund
+I don't want my online account, help me close it	delete_account
+I'm not happy with the service, what do I have to do to submit a consumer complaint?	complaint
+show me the email to contact Customer Support	contact_customer_service
+I want to know what the mail address to  contact Customer Service is	contact_customer_service
+what's your refund policy?	check_refund_policy
+I got an error message when I attempted to make a payment, but my card was charged anyway, what should I do to notify it?	payment_issue
+i want a reimbursement, what can i do to request one?	get_refund
+I don't understand you, I need help speaking with a person	contact_human_agent
+I want tp make a purchase, can you help me?	place_order
+I want to know what the free number to contact Customer Service is, please	contact_customer_service
+I want to see an invoice, can you tell me how to do it?	get_invoice
+I want to see the options for delivery, what shuold I do?	delivery_options
+where can I leave a review?	review
+I have a problem paying for my online order, how can I inform of it?	payment_issue
+where do I inform of problems paying?	payment_issue
+ask an agent where to register	create_account
+where do I check yor payment options?	check_payment_methods
+I got an error message when I tried to make a payment, but I was charged anyway, what should I do to report it?	payment_issue
+I'm happy with the service, what can I do to lodge a review?	review
+I want to view the options for delivery, can you help me?	delivery_options
+I'm not happy with the service, help me make a complaintg	complaint
+I can't find my bills, what can I do to see them?	check_invoices
+I want to request information about getting some invoices	get_invoice
+an error pops when i try to pay for my online order, what can i do?	payment_issue
+where to modify my order	change_order
+I want to know if I can see a bill	get_invoice
+I made a mistake, what should I do to modify my order?	change_order
+I got an error wnen I tried to pay, but I was charged amyway	payment_issue
+where do I notify issues paying?	payment_issue
+my fucking account's been hacked, how do I reocver it?	recover_password
+I got an error message when I attempted to pay, but my card was charged anyway, how can I notif it?	payment_issue
+the show was postponed, how could I obtain a fucking refund?	get_refund
+can u ask an agent if i can trcak my shipment?	track_order
+I got an error when I attempted to pay, but my card was charged anyway, can you notify it?	payment_issue
+how to remove my online account	delete_account
+I'd like to inform of problems paying	payment_issue
+i want to know what the number of client service is	contact_customer_service
+please, could you ask an agent if I coud inform of problems with my payment?	payment_issue
+Id like to download some fucking invoices, could you tell me how to do it, please?	get_invoice
+how can i solve a problem paying?	payment_issue
+how to hceck the cancellation fees	check_cancellation_fee
+the game was postponed, request a reimbursement	get_refund
+I made a mistake, can I modify my purchase?	change_order
+I've got no account, I need help registering	create_account
+could u ask an agent to inform of problems with my payment?	payment_issue
+how do I make changes to my shipping address?	change_shipping_address
+I can't remember my account password and I want to recover it	recover_password
+i need a refund, what should i do to obtain one?	get_refund
+I ordered an item, help me change my purchase	change_order
+I want to ask for information about requesting some bhills	get_invoice
+ask an agent where i can view the cancellation penalties	check_cancellation_fee
+how do I inform of issues paying?	payment_issue
+I want information, help me call Client Service	contact_customer_service
+I don't like the service, lodge a consumer complaint	complaint
+I want to know how I can receive the newsletter	newsletter_subscription
+can I make a payment with card?	check_payment_methods
+I lost my invoice, can I view it?	check_invoices
+where can I check your reimbursement policy?	check_refund_policy
+i got an error wen i tried to pay, but my card was charged anyway, what do i have to do to inform of it?	payment_issue
+I want to speak with a person	contact_human_agent
+how to notify problems with my payment	payment_issue
+can you give me information about the ticket delivery options?	delivery_options
+could u ask an agent if i could check the ticket delivery options?	delivery_options
+what information can you tell me about seeing an invoice?	get_invoice
+I want to check your payment options, can you help me?	check_payment_methods
+im not happy with the service, how do i submit a complaint?	complaint
+can you tell me if i can register several fuckingaccounts with a single email, please?	create_account
+the game was cancelled, what do I have to do to obtain a reimbursement?	get_refund
+I want to solve a payment issue, what do I have to do?	payment_issue
+i need help requesting some bills	get_invoice
+i ahve a problem when trying to pay for my online order, how can i report it?	payment_issue
+please, could u ask an agent if i could modify my purchase?	change_order
+I want to see the delivery period for my ticket	delivery_period
+I want to know something about seeing a bill	get_invoice
+i wanna remove my account, where can i do it?	delete_account
+I ordered something and I want to change my order	change_order
+my user account has been hacked, can i get it back?	recover_password
+I got an error messae when I tried to make a payment, but my card was charged anyway, report it	payment_issue
+how can I delete my profile?	delete_account
+I've got no user account, can you register?	create_account
+tell me how I can download an invoice	get_invoice
+can you check my invoice?	check_invoices
+I need help viewing your money back guaranee	check_refund_policy
+I want to use my other user account, can I switch them?	switch_account
+i cant remember my password and id like to reset it, pleae	recover_password
+I got an error when I attempted to make a payment, but my card was charged anyway, what can I do?	payment_issue
+help me make a consumer complaint	complaint
+show me the mail of the Customer Service	contact_customer_service
+the concert was caancelled, request a refund	get_refund
+you aren't helping, can I contact a person?	contact_human_agent
+where do I check my package?	track_order
+I want to get a bil, can you show me some information?	get_invoice
+i got an error message when i attempted to pay, but i was charged anyway, notify it	payment_issue
+i wanna close my user account, where can i do it?	delete_account
+what's the number to contact Customer Support?	contact_customer_service
+tell me where I can track my package	track_order
+im not happy with the service and i wanna lodge a consumer complaint	complaint
+I forgot my account password, what can I do?	recover_password
+I have a question, talk to Client Service	contact_customer_service
+I wanna know where to track my shipment	track_order
+I watn to reset my account password, what can I do?	recover_password
+i want to report a problem with my payment, what should i do?	payment_issue
+can you ask an agent if I could set up my shipping address?	set_up_shipping_address
+I need a user account, open one	create_account
+i have an issue paying, inform of it	payment_issue
+I want to open a user account	create_account
+I have an issue when trying to make a payment, what should I do to notify it?	payment_issue
+can you tell me the mail of Customer Support?	contact_customer_service
+i havent got an online account, can i create one?	create_account
+how canI change my profile?	edit_account
+I wanna get information about receiving the newsletter	newsletter_subscription
+i want to check the cancellation penalty, what should i do?	check_cancellation_fee
+can I download some bills?	get_invoice
+how do I request areimbursement?	get_refund
+please, i wanna know if i can create two online accounts with the same email address	create_account
+i can't find my invoices, what should i do to see them?	check_invoices
+I got an error message when I attempted to make a payment, but I was charged anyway, how do I notify it?	payment_issue
+I don't awnt my account, cancel it	delete_account
+can u ask an agent if I can track my orders?	track_order
+ask an agent if I can cancel an order	cancel_order
+youre not helping, help me contact someone	contact_human_agent
+i want a rfeimbursement, how can i obtain one?	get_refund
+i need information about the mail of the Client Service	contact_customer_service
+help me report an issue with my payment	payment_issue
+I want to know how to change my order	change_order
+I want to know how long it takes for a ticket to arrive	delivery_period
+I purchased something, help me change my order	change_order
+I have an issue when trying to make a payment, help me inform of it	payment_issue
+id like to track my orders, can you tell me how to do it?	track_order
+i want to know if i could create two profiles with the same email address	create_account
+can u ask an agent for information about seeing a bill?	get_invoice
+I don't have an account, what should I do to register?	create_account
+tell me if my refund has been processed	track_refund
+can you tell me what the mail of Customer Service is?	contact_customer_service
+please, do you mind asking an agent how I can see an invoice?	get_invoice
+i want to check the status of my purchase, what do i have to do?	track_order
+im not happy with the service, can u make a consumer complaint?	complaint
+I have no shipping address, how do I set it up?	set_up_shipping_address
+i dont like the service and i wanna lodge a consumer complaint	complaint
+someone stole my account password, what do I have to do?	recover_password
+please, i want to ask for information about seeing some bills	get_invoice
+i want to track my package, tell me where I can do it	track_order
+how do I track my orders?	track_order
+the concert was postponed, how do I get a refund?	get_refund
+can I write a review?	review
+the game was cancelled, how can i request a refund?	get_refund
+can I obtain an invoice?	get_invoice
+can you ask an agent if i can obtain some invoices?	get_invoice
+I'm happy with the service, help me make a comment	review
+please, tell me if I can register two online accounts with a single email	create_account
+please, I wanna know where I can change my fucking order	change_order
+where to write an opinion for a service	review
+im discontent with the service, make a complaint	complaint
+can you tell me where I can check my orders?	track_order
+can you find information about the mail of the Customer Support?	contact_customer_service
+where to track my orders	track_order
+someone sxtole my account password, I need help recovering it	recover_password
+I have an issue making a payment with card, can you notify it?	payment_issue
+could u ask an agent how to inform of a fucking issue paying?	payment_issue
+i want to remove my profile, where can i do it?	delete_account
+the show was cancelled, how do I obtain a refund?	get_refund
+i want to report a payment issue, what should i do?	payment_issue
+where to report payment problems	payment_issue
+can you show me the free number to contact Customer Support?	contact_customer_service
+I want to check my delivery	track_order
+i want to inform of a problem paying, what should i do?	payment_issue
+i got an error message when i attempted to pay , but my card was charged anyway and id like to report it, please	payment_issue
+id like to submit a consumer complaint for a service, what do i have to do?	complaint
+my card was declined, what should I do?	payment_issue
+where to view your payment methods	check_payment_methods
+ask an agent for information about seeing some bills	get_invoice
+I made a mistake, can I modify my order?	change_order
+where to check the status of my purchase	track_order
+I want a refund, what should I do to get one?	get_refund
+can I track my purchase?	track_order
+I have no user account , what do I have to do to open one?	create_account
+how could I update my fucking profile?	edit_account
+where do i change my shipping address?	change_shipping_address
+how do I open an online account?	create_account
+how soon can I expect my ticket to arrive?	delivery_period
+I cannot understand you and I would like to talk to a human agent, please	contact_human_agent
+my user account was hacked, how can i recover it?	recover_password
+I purchased a product and i want to change my order	change_order
+can you ask an agent to check my shipment?	track_order
+i dont like the service, what should i do to submit a consumer complaint?	complaint
+where to close my profile	delete_account
+can you tell me what the email address of the Customer Service is?	contact_customer_service
+could you ask an agent if I can lodge a complaint for a service, please?	complaint
+can you tell me what the free number to contact customer support is?	contact_customer_service
+I have a problem when trying to make a payment, what can I do?	payment_issue
+can you tell me if I can download an invoice?	get_invoice
+speak with Client Service	contact_customer_service
+i wanna know if my shipment is out for delivery	track_order
+where do I see the status of my purchase?	track_order
+can u ask an agent how tomake changes to my shipping addrrss?	change_shipping_address
+can u ask an agent how i cxan check the delivery options ?	delivery_options
+I don't want my online account, what can I do to cancel it?	delete_account
+ask an agent where ot notify an issue paying , please	payment_issue
+is there a free phone number to contact Customer Service?	contact_customer_service
+can you show me my invoice, please?	check_invoices
+I want to know if I can pay  with Master Card	check_payment_methods
+i wanna get a bill, can you tell me how to do it?	get_invoice
+I need help viewing the options for ticket delivery	delivery_options
+my online account sas hacked, what can I do to get it back?	recover_password
+could you tell me if I could create more than one user account with a single email, please?	create_account
+i want a reimbursement, get one	get_refund
+I've got no online account, what should I do to create one?	create_account
+i get an error message when i try to make a payment for my online order, what do i have to do?	payment_issue
+I'm discontent with the service, how do I make a consumer complaint?	complaint
+i can't find my invoices, what can i do to view them?	check_invoices
+where do I cancel my user account?	delete_account
+I haven't got a user account, what can I do to open one?	create_account
+can you tell me the number of customer support, please?	contact_customer_service
+I get an error when I try to pay for my order	payment_issue
+I want to use my other account, what can I do to switch them?	switch_account
+please, ask an agent where i could inform of fucking problems making a payment	payment_issue
+I want to know how to check my packages	track_order
+i have an issue when trying to pay for my order, what should i do to report it?	payment_issue
+how to report an issue paying	payment_issue
+help me notify an issue paying	payment_issue
+I got an error message when I tried to make a payment, but my card was charged anyway, how can I inform of it?	payment_issue
+i wanna know if my package is on its way	track_order
+I need help contacting Customer Support	contact_customer_service
+the game was cancelled, what can I do to get a reimbursement?	get_refund
+please, ask an agent to check my orders	track_order
+I got an error message when I tried to pay, but my card was charged anyway, how do I report it?	payment_issue
+I want to solve a payment issue, what can I do?	payment_issue
+I got an error when I attempted to make a payment, but I was charged anyway, can you notify it?	payment_issue
+do you mind asking an agent how to track my fucking order, plase?	track_order
+my fucking profile's been hacked, i need help recovering it	recover_password
+I want a user account, how do I create one?	create_account
+I don't want my online account, I need help canceling it	delete_account
+i wanna see the mail address tocontact Client Service	contact_customer_service
+I would like information and I'd like to call Customer Support, please	contact_customer_service
+I don't want my profile, I need help canceling it	delete_account
+i wanna know if i can register two accounts with the same email	create_account
+I need information, can you contact Customer Service?	contact_customer_service
+could u ask an agent how I can check my order, please?	track_order
+I have a question, can you call Customer Support?	contact_customer_service
+i didn't receive my bill and i wanna check it	check_invoices
+i wanna get an invoice, can you show me some information?	get_invoice
+can you ask an agent how I can track my shipment?	track_order
+I have an issue when trying to pay for my order, can you help me?	payment_issue
+please, ask an agent how to make a complaint	complaint
+can you provide information about the delivery period for my ticket?	delivery_period
+the event was cancelled, what should I do to obtain a refund?	get_refund
+can I inform of a problem with my payment?	payment_issue
+id like to solve a payment problem, what do i have to do?	payment_issue
+i want to know what the phone number to contact customer support is	contact_customer_service
+i have an issue when trying to pay with card, can u inform of it?	payment_issue
+I can't understand you, I need help speaking with a person	contact_human_agent
+i wanna create a user account, can u help me ?	create_account
+could u ask an agent where i could obtain a fucking refund, please?	get_refund
+I want to know where to receive the newsletter	newsletter_subscription
+i wanna cancel my online account, how can i do it?	delete_account
+help me change to another account	switch_account
+you aren't helping, how do I contact someone?	contact_human_agent
+the concert was postponed, what should i do to get a reimbursement?	get_refund
+i purchased a product, what can I do to change my purchase?	change_order
+I lost my fucking invoices and I want to check them, please	check_invoices
+please, ask an agent how to remove my online account	delete_account
+can you tell me if I can create several accounts with the same email address?	create_account
+I got an error message when I tried to pay, but I was charged anyway, can you notify it?	payment_issue
+I want to check cancellation penalties, what do I have to do?	check_cancellation_fee
+my cacount's been hacked, what can i do?	recover_password
+I have a problem when trying to pay with card, can I inform of it?	payment_issue
+please, could u ask an agent how to report an issue paying?	payment_issue
+I need information and I want to talk to Customer Service	contact_customer_service
+tell me if i can request some bills	get_invoice
+I want information, how can I speak with Customer Service?	contact_customer_service
+I want to make changes to my profile, how can I do it?	edit_account
+I want information, call Customer Service	contact_customer_service
+I didn't receive my invoice, can you check it?	check_invoices
+I got an error when I attempted to make an payment, but I was charged anyway, can you inform of it?	payment_issue
+I want to inform of an issue paying, what should I do?	payment_issue
+I want to know the status of my refund	track_refund
+I got an error when I tried to pay, but I was charged anyway and I want to notify it	payment_issue
+can oyu speak with Customer Seevice?	contact_customer_service
+I need help checking my shipments	track_order
+how to contact someone	contact_human_agent
+i wanna track my orders	track_order
+I want to talk to a human	contact_human_agent
+I have an issue when trying to make an payment, I need help informing of it	payment_issue
+can you tell me the mail of the Customer Support?	contact_customer_service
+ask an agent if I could modify my purchase	change_order
+you aren't helping, speak with a human agent	contact_human_agent
+i have an issue when trying to make a payment with card, how can i notify it?	payment_issue
+can u ask an agent how to report an issue making a payment, please?	payment_issue
+where do I report problems making a payment?	payment_issue
+I'm discontent with the service, what should I do to lodge a complaint?	complaint
+can you show me the email address to contact Customer Support?	contact_customer_service
+can u show me my bills?	check_invoices
+I'd like to create an account, what can I do?	create_account
+ask an agent how i can register	create_account
+I have a problem when trying to pay for my online order, how can I notify it?	payment_issue
+I would like to notify a fucking problem paying	payment_issue
+I have no user account	create_account
+can you ask an agent if i could request some bills?	get_invoice
+I need help seeing the status of my purchase	track_order
+I bought an item, I need help modifying my purchase	change_order
+where can I lodge a consumer complaint for a service?	complaint
+I got an error when I attempted to pay, but I was charged anyway, inform of it	payment_issue
+help me notify payment problems	payment_issue
+i want to remove my profile	delete_account
+can you contact a person?	contact_human_agent
+I want to use my other account, could I change them?	switch_account
+i changed my mind, i need help deleting my online account	delete_account
+i dont have a user account, what should i do?	create_account
+i want to report an issue making a payment, what can i do?	payment_issue
+I'd like a user account, open one	create_account
+i want to request a refund, can u help me?	get_refund
+the game was postponed, how do i obtain a refund?	get_refund
+can you give me information about the fucking mail address to contact Client Service, please?	contact_customer_service
+i have a problem paying for my order and i wanna inform of it	payment_issue
+I've got no online account and I want to open one	create_account
+can you download some invoices?	get_invoice
+I got an error message when I tried to pay, but I was charged anyway, what should I do?	payment_issue
+ask an agent what he email address of trhe Customer Support	contact_customer_service
+i want to know what the phone number of customer service is	contact_customer_service
+can you show me information about the status of my refund?	track_refund
+I've got no user account, what can I do?	create_account
+i made a mistake, ask an agent to change my order	change_order
+where to cancel my user account	delete_account
+help me see my invoice	check_invoices
+help me inform of payment problems	payment_issue
+I want to know where to get an invoice	get_invoice
+I want to see my invoices	check_invoices
+I need help sending an email to Customer Support	contact_customer_service
+I don't understand you, could you talk to a person?	contact_human_agent
+id like to see your payment methods,what can i do?	check_payment_methods
+the game was cancelled, can I get a reimbursement, please?	get_refund
+I didn't receive my invoices, can I see them?	check_invoices
+I want information, send an email to Customer Support	contact_customer_service
+please , ask an agent where to notify fucking issues with my payment	payment_issue
+how do I solve an issue making a payment?	payment_issue
+how can i fequest a reimbursement?	get_refund
+i need help deleting my account	delete_account
+I want to request an invoice, can you tell me where to do it?	get_invoice
+I don't want my profile, what should I do to cancel it?	delete_account
+where to obtain an invoice	get_invoice
+can I register several user accounts with a single email?	create_account
+ask an agent if i can check my packages	track_order
+I have an issue when trying to pay for my online order, what do I have to do to report it?	payment_issue
+could you ask an agent to edit the information on my profile, please?	edit_account
+I don't have a user account, can you open one?	create_account
+ask an agent where i can close my fucking user account, please	delete_account
+can you show me the free number to contact Client Service?	contact_customer_service
+can you tell me when my ticket will arrive?	delivery_period
+I have a problem when trying to pay for my order, I need help notifying it	payment_issue
+i cant understand you, how can i talk to someone?	contact_human_agent
+I need help seeing some bills	get_invoice
+I want to know where I can check my packages	track_order
+polease, i want to know about modifying my fucking order	change_order
+I want to change my purchase, tell me where to do it	change_order
+the game was cancelled, help me request a refund	get_refund
+I haven't got an account, help me create one	create_account
+the event was postponed, help me obtain a reimbursement	get_refund
+I want to download some invoices, tell me how to do it	get_invoice
+you're not helping, how can I speak with someone?	contact_human_agent
+my account's been hacked, i need help recovering it	recover_password
+I need a refund, what do I have to do to get one?	get_refund
+my fuckingonline account's been hacked, can u help me?	recover_password
+I want to change my purtchase, tell me how I can do it	change_order
+i havent got an account, i need help registering	create_account
+the show was cancelled, can I obtain a refund?	get_refund
+I want to see the cancellation penalty, what should I do?	check_cancellation_fee
+can you obtain some bills?	get_invoice
+my profile's been hacked, and I need help getting it back	recover_password
+i didn't receive my bill, help me check it	check_invoices
+you're not helping, what should I do to contact a human agent?	contact_human_agent
+i wanna check the status of my purchase, can u help me?	track_order
+help me check the status of my reimbursement	track_refund
+I have an issue paying, what should I do?	payment_issue
+please, ask an agent if I can remove my user account	delete_account
+I have an issue when trying to pay for my online order, what do I have to do to inform of it?	payment_issue
+ask an agent where to report an issue paying	payment_issue
+please, can you find information about the status of my reimbursement?	track_refund
+can you tell me how I can change my purchase?	change_order
+can u ask an agent where i can close my user account, please?	delete_account
+my account was hacked, help me recover it	recover_password
+the game was postponed, obtain a reimbursement	get_refund
+I wanna  know how to obtain an invoice	get_invoice
+I want to know what the email address to contact Customer Support is	contact_customer_service
+id like information, what can i do to contact client service?	contact_customer_service
+I've got no user account, can I register?	create_account
+could you ask an agent what I can obtain a reimbursement for, please?	get_refund
+I need informaton, how do I send an email to Client Service?	contact_customer_service
+I want to view my bills, can you help me?	check_invoices
+I want to see the status of my refund, can you help me?	track_refund
+help me notify a fucking payment problem, please	payment_issue
+can u ask an agent where i could make a complaint for a service, please?	complaint
+i wanna check my invoices , what can i do?	check_invoices
+an error pops when i try to make a payment for my online order, can u help me?	payment_issue
+where do I report an issue making a payment?	payment_issue
+i wanna remove my account, how can i do it?	delete_account
+tell me where I can check my shipment	track_order
+I need information, what do I have to do to talk to Customer Support?	contact_customer_service
+I don't have an account, I need help registering	create_account
+I want to inform of an issue with my payment	payment_issue
+i wanna solve a payment issue	payment_issue
+ask an agent if I could request an invoice	get_invoice
+can I speak with a person?	contact_human_agent
+where to obtain a bill	get_invoice
+how to track my deliveries	track_order
+how do i write a comment for a service?	review
+I would like to see the status of my refund, could you help me, please?	track_refund
+i have a question, how do i talk to customer support?	contact_customer_service
+can I create two online accounts with a single email address?	create_account
+i changed my mind and i want to cancel my online account	delete_account
+i lost my fucking bill and i wanna view it	check_invoices
+I've got no account, help me create onee	create_account
+can you give me information about the email of the Client Service?	contact_customer_service
+the event was cancelled, what do I have to do to obtain a refund?	get_refund
+where do I change my purchase?	change_order
+I'm happy with the service, submit a comment	review
+I got an error when I tried to pay, but my card was charged anyway, could I inform of it?	payment_issue
+how do I solve a fucking problem paying?	payment_issue
+the game was postponed, what should I do to request a reimbursement?	get_refund
+can you tell me if I can register more than one online account with a single email?	create_account
+where to check my invoice	check_invoices
+I need information, can you talk to Cliebt Service?	contact_customer_service
+help me obtain some bills	get_invoice
+how do I see some bills?	get_invoice
+I'm happy with the service, can you lodge an opinionm?	review
+the concert was cancelled, what should I do to get a refund?	get_refund
+how do I see the cancellation fee?	check_cancellation_fee
+I don't understand you, what should I do to contact a person ?	contact_human_agent
+I haev a problem paying with card, what can I do?	payment_issue
+I want to see an invoice, tell me where to do it	get_invoice
+please, could u ask an agent how i can inform of issues making a payment?	payment_issue
+I'm not happy with the service, can you make a complaint?	complaint
+the game was postponed, how can I get a reimbursement?	get_refund
+can I check the status of my order?	track_order
+could u ask an agent where to download an invoice?	get_invoice
+could you check your money back policy, please?	check_refund_policy
+I don't have a user account, how can I register?	create_account
+I don't understand you, what can I do to talk to someone?	contact_human_agent
+i dont understand you, contact a human	contact_human_agent
+I want to view the status of my order, what do I have to do?	track_order
+I xidn't receive my bills, help me view them	check_invoices
+can you ask an agent how I could solve fucking payment problems?	payment_issue
+I have a problem when trying to pay with card and I want to inform of it	payment_issue
+I changed my mind, how can I delete my account?	delete_account
+i have a problem when trying to pay for my order, could u inform of it?	payment_issue
+I have an issue paying for my order and I want to report it	payment_issue
+I lost my account password and I want to recover it	recover_password
+can you tell me what the mail address of the Customer Support is?	contact_customer_service
+I would like a reimbursement, help me obtain onhe	get_refund
+the game was cancelled, what do i have to do to obtain a refund?	get_refund
+i want  to solve a issue with my payment	payment_issue
+I got an error message when I attempted to pay, but my card was charged anyway and I want to notify it	payment_issue
+the concert was postponed, what do I have to do to get a reimbursement?	get_refund
+help me set up my shipping address, please	set_up_shipping_address
+I'm discontent  with the service, how do I file an consumer complaint?	complaint
+ask an agent if i casn check their payment options	check_payment_methods
+help me edit my profile	edit_account
+I want to check my order, can you tell me where I can do it?	track_order
+I need help obtaining a bill	get_invoice
+ask an agent to delete my profile	delete_account
+my profile was hacked, what should I do?	recover_password
+can you hsow me the cancellation efes?	check_cancellation_fee
+I didn't receive my invoice, how do Icheck it?	check_invoices
+can u ask an agent about the cancellation penalties?	check_cancellation_fee
+I lost my password, I need help retrieving it	recover_password
+I want to know if I can pay with credit cars	check_payment_methods
+Id like to track my delivery, could you tell me where to do it?	track_order
+where do I obtain an invoice?	get_invoice
+I want to know if I can register more than one user account with a single email address	create_account
+I've got no online account, can you register?	create_account
+I got an error message when I tried to pay, bvut I was charged anyway, what should I do to report it?	payment_issue
+can u ask an agent if i can check the status of my order?	track_order
+id like to reset my account password, could u help me?	recover_password
+I want to check my shipment, tell me how to do it	track_order
+I have no profile, what should I do to create one?	create_account
+tell me if I could obtain a bill	get_invoice
+can i lodge a consumer complaint?	complaint
+I'm  discontent with the service, how do I file a complaint?	complaint
+I changed my mind, what should I do to remove my usre account?	delete_account
+I have an issue paying, inform of it	payment_issue
+I don't understand you, what do I have to do to contact a human?	contact_human_agent
+i havent got a fucking account, help me register	create_account
+tell me how I can track my deliveries	track_order
+sak an agent how i can update my profile	edit_account
+i have an issue paying with card and i want to inform of it, please	payment_issue
+information about requesting a bill	get_invoice
+can u ask an agent where to download an invoice?	get_invoice
+can u give me informztion about the email address of the Customer Support?	contact_customer_service
+i got an error when i attempted to pay, but my card was charged anyway, how do i inform of it?	payment_issue
+I need information, how can I send an email to Customer Support?	contact_customer_service
+please, can u show me the fucking email of the Customer Service?	contact_customer_service
+I want to view  your refund policy, can you help me ?	check_refund_policy
+where can I lodge a complaint?	complaint
+how do I see the cancellation penalty?	check_cancellation_fee
+I want to use my other user account, how can I switch them?	switch_account
+I want to know the status of my reimbursement, can you help me?	track_refund
+i wanna see the options for ticket delivery, what can i do?	delivery_options
+id like to check the options for delivery	delivery_options
+I got an error when I tried to make a payment, but my card was charged anyway, I need help reporting it	payment_issue
+i cant understand you, could u talk to a human agent?	contact_human_agent
+I want to lodge an opinion, what do I have to do?	review
+i want to solve a payment problem	payment_issue
+can I register more than one online account with a single email address?	create_account
+someone stole my password, retrieve it	recover_password
+the show was cancelled and I want to obtain a refund	get_refund
+i wanna know if i can create more than one fucking account with the same email address,  please	create_account
+i dont like the service, how can i submit a consumer complaint?	complaint
+i have no user account, open one	create_account
+tell me about receiving the newsletter	newsletter_subscription
+please, i want to know if i can register more than one account with a single email	create_account
+what can I request a reimbursement for?	get_refund
+please, could u ask an agent if i can report payment problems?	payment_issue
+I didn't receive my bills, can you view them?	check_invoices
+I want information, I ned help speaking with Customer Servgice, please	contact_customer_service
+could u ask an agent what my order of my fucking package is, please?	track_order
+can u ask an agent where to report problems with my payment?	payment_issue
+could you tell me if i could create two fucking user accounts with a single email, please?	create_account
+I want information, how do I send an email to Customer Service?	contact_customer_service
+the payment won't go through , what do I have to do?	payment_issue
+I want toocontact someone	contact_human_agent
+i wanna get information about requesting some invoices	get_invoice
+I have an issue when trying to pay for my online order, can I inform of it?	payment_issue
+can u ask an agent to show me information about my invoice?	check_invoices
+ell me where I can changemy purchase	change_order
+can you tell me what the mail address to contact client service is?	contact_customer_service
+I want to know how I can know where my shipment is	track_order
+my account was hacked, how do I get it back?	recover_password
+i got an error message when i attempted to pay, but my card was charged anyway , report it	payment_issue
+I want to view your reimbursement policy	check_refund_policy
+how to get some invoices	get_invoice
+ask an agent where I could inform of problems making a payment, please	payment_issue
+I have a problem when trying to pay, what can I do to report it ?	payment_issue
+I don't have a user account, can you create one?	create_account
+i wanna know if Ican modify my purchase, please	change_order
+what information can you tell me about getting some bills?	get_invoice
+i need help making changes to the information on my profile	edit_account
+I want to remove my user account	delete_account
+i wanna know something about requesting a bill	get_invoice
+u are not helping, what can i do to speak with a person?	contact_human_agent
+can I register several accounts with the same email address?	create_account
+I got an error when I attempted to make a payment, but my card was charged anyway, what can I do to inform of it?	payment_issue
+show me the number of Customer Service	contact_customer_service
+I had a issue creating a profile	registration_problems
+i got an error when i attempted to oay, but my card was charged anyway, can u notify it?	payment_issue
+i wanna submit a review, what can i do?	review
+i need an account, can u help me?	create_account
+I can't understand you and I want to contact someone	contact_human_agent
+i want to notify an issue making a payment, what should i do?	payment_issue
+can u ask an agent how to track my order?	track_order
+i changed my mind, what should i do to cancel my user account?	delete_account
+I get an error when I try to pay for my online order, what can I do?	payment_issue
+I've got no user account, open one	create_account
+i  wannacall customer service	contact_customer_service
+I need help canceling my account	delete_account
+ask an agent if I can reset my fucking password	recover_password
+I can't remember my account password , what can I do to reset it?	recover_password
+can you show me the email address to contact Customer Service?	contact_customer_service
+can you tell me if I can register morte than one profile with a single email address?	create_account
+what can yopu tell me about subscribing to the newsletter?	newsletter_subscription
+can you tell me how I can check my order?	track_order
+you arent helping, can u contact a human agent?	contact_human_agent
+i cant pay, can u help me?	payment_issue
+I want to track my package, can you tell me where to do it?	track_order
+i have an issue making a payment with card and i wanna inform fo it	payment_issue
+can I solve problems with my payment?	payment_issue
+i have an issue when trying to pay, report it	payment_issue
+i want an account, how can i open one?	create_account
+i havent got an online account, how can i open one?	create_account
+I changed my mind, can I close my profile?	delete_account
+id like to lodge a fucking review, what canh i do?	review
+download some invoices	get_invoice
+my account has been hacked, what can i do to recover it?	recover_password
+I'm happy with the service, help me lodge a comment	review
+I found an issue while signing up	registration_problems
+I'm not happy with the service, what should I do to make a consumer complaint?	complaint
+can u ask an agent how to leave a comment for a service?	review
+the event was postponed, what should i do to obtain a refund ?	get_refund
+I've got no profile, what should I do?	create_account
+how do I  track my reimbursement?	track_refund
+i have a problem when trying to pay, can u report it?	payment_issue
+please, can you tell me about the delivery period for my ticket?	delivery_period
+i dont have an account, help me create one	create_account
+tell me about seeing a bill	get_invoice
+please, ask an agent where i can write a fucking comment for a service	review
+someone stole my password, recover it	recover_password
+can u ask an agent if i can place an order?	place_order
+i wanna see the email address of customer support	contact_customer_service
+how to track my refund	track_refund
+I changed my mind, what can I do to close my profile?	delete_account
+tell me how to modify my order	change_order
+how to report an issue making a payment	payment_issue
+I want a reimbursement, what do I have to do to get one?	get_refund
+my account's been hacked, how can I recover it?	recover_password
+please, can you ask an agentq how I could check the ticket delivery options?	delivery_options
+I got an error message when I attempted to pay, but I was charged anyway, help me inform of it	payment_issue
+please, can u ask an agent if i can solve a fucking issue with my payment?	payment_issue
+I wanna know something about obtaijing an invoice	get_invoice
+i purchased something, how do I modify my order?	change_order
+how do I notify problems with my payment?	payment_issue
+help me view the status off my order	track_order
+my card was declined, what can I do?	payment_issue
+can you ask an agent how I can get some invoices?	get_invoice
+i have an issue paying, help me notify it	payment_issue
+please, Id like to get information about seeing an invoice	get_invoice
+I want information, can you send an email to Customer Service?	contact_customer_service
+i dont have a shipping address, canu set it up?	set_up_shipping_address
+I get a error message when I try to pay for my online order	payment_issue
+can you tell me how to get a bill?	get_invoice
+I want to know how to check my deliveries	track_order
+I got an error message when I tried to pay, but my card was charged anyway	payment_issue
+i cant nuderstand you, i nered help speaking with a human agent	contact_human_agent
+I can't find my bill, I need help viewing it	check_invoices
+i would like to obtain some invoices, could you tell me how I can do it?	get_invoice
+i want an online account and i want to open one	create_account
+can you obtain an invoice?	get_invoice
+i have no profile, how do i create one?	create_account
+i have no account, what should i do to create one?	create_account
+i forgot my password and i want to recover it	recover_password
+I need information, could you call Client Service, please?	contact_customer_service
+how to report a payment issue	payment_issue
+how to check the status of my purchase	track_order
+I didn't get a payment validation	payment_issue
+can you show me the delivery perod for my ticket?	delivery_period
+I want to see the options for ticket delivery	delivery_options
+where do I open an account?	create_account
+i have no account, how can i create one ?	create_account
+can you tell me where to track my order?	track_order
+can u ask an agent where i can report a problem making a payment?	payment_issue
+where do I notify problems paying?	payment_issue
+i got an error message when i tried to pay, but i was charged anyway, how do i inform of it?	payment_issue
+I don't understand you, what do I have to do to contact a person?	contact_human_agent
+you aren't helping, what do I have to do to contact a person?	contact_human_agent
+can you tell me what the number to contact Customer Service is?	contact_customer_service
+can I notify problems with my payment ?	payment_issue
+I need help viewing your refund policy	check_refund_policy
+I lost my bill, what do I have to do to view it?	check_invoices
+i wanna report a problem paying, what do i have to do?	payment_issue
+please, could u ask an agent if i can view the status of my reimbursement?	track_refund
+how do I solve a problem paying?	payment_issue
+I want to get information about downloading an invoice	get_invoice
+tell me how I can request some bills	get_invoice
+i want to see the mail to contact client service	contact_customer_service
+how do I cancel an order?	cancel_order
+can u show me the amil to contact customer service, please?	contact_customer_service
+can u ask an agent how I can see some invoices?	get_invoice
+I got an error message when I attempted to pay, but I was charged anyway, help me report it	payment_issue
+ask an agent how to switch to another account	switch_account
+where to notify issues making a payment	payment_issue
+I want to check your payment methods, what do I have to do?	check_payment_methods
+can I track my shipments?	track_order
+my profile was hacked and  I'd like to recover it	recover_password
+I made a mistake, what should I do to modify my purchase?	change_order
+I want to request a reimbursement, what do I have to do?	get_refund
+I changed my mind, what do I have to do to delete my account?	delete_account
+i have no fucking user account and id like to create one	create_account
+how can i change my shipping address?	change_shipping_address
+you're not helping, can you contact a person?	contact_human_agent
+I don't like the service, can I make a consumer complaint?	complaint
+the payment wont  go through, what should i do?	payment_issue
+I want to check my packages, can you tell me how to do it?	track_order
+I want to cancel my user account, how can I do it?	delete_account
+i have an issue paying for myorder, what do i have to do to inform of it?	payment_issue
+the game was cancelled, can i obtain a reimbursement?	get_refund
+help me view your reimbursement policy	check_refund_policy
+I have a problem when trying to pay, report it	payment_issue
+information about subscribing to the newsletter	newsletter_subscription
+I have no shipping address, how do I set one up?	set_up_shipping_address
+I made a mistake, what can I do to change my order?	change_order
+i wanna request information about getting an invoice	get_invoice
+can you tell me where I can check my packages?	track_order
+I want to know how I can request some bills	get_invoice
+where to view the cancellation penalties	check_cancellation_fee
+I've got no user account, I need help opening one	create_account
+I need help changing my shipping address	change_shipping_address
+i want information, can i call customer service?	contact_customer_service
+I have a problem paying with card, I need help reporting it	payment_issue
+I have a problem when trying to make a payment, what do I have to do to report it?	payment_issue
+how do I subscribe to the newsletter?	newsletter_subscription
+I need a reimbursement, can I get one?	get_refund
+I got an error when I attempted to pay, but I was charged anyway and I want to notify it	payment_issue
+I want to get an invoice, tell me where to do it	get_invoice
+i have an issue when trying to pay, inform of it	payment_issue
+I need information, can you talk to Customer Service?	contact_customer_service
+tell me if I can create two online accounts with the same email	create_account
+I got an error message when I attempted to pay, but my card was charged anyway, how do I inform of it?	payment_issue
+I didn't receive my bill, I need help checking it	check_invoices
+help me notify a payment problem	payment_issue
+I've got no online account, help me open one	create_account
+I have an problem when trying to pay for my online order, what do I have to do to report it ?	payment_issue
+im interested in your money back guarantee and i want to know about it	check_refund_policy
+I have a problem when trying to make a payment, what do I have to do?	payment_issue
+please, can you ask an agent if I can file a complaint for a service?	complaint
+where can I notify issues paying?	payment_issue
+I'm happy with theservice, Ineed help lodging a review	review
+I have a problem when trying to make a payment with card, what should I do to inform of it?	payment_issue
+where to see your pyment options	check_payment_methods
+I lost my password, help me reset it	recover_password
+I wantinformation about the  ticket delivery options	delivery_options
+I can't understand you and I want to talk to someone	contact_human_agent
+an error pops when i try to pay, what should i do?	payment_issue
+I want a user account, can I create one ?	create_account
+where can I notify a payment issue ?	payment_issue
+where can I view the options for delivery?	delivery_options
+i have an issue making a payment with card, what should i do to inform of it?	payment_issue
+I got an error when I tried to pay, but I was charged anyway, can you report it?	payment_issue
+you're not helping, help me talk to a human agent	contact_human_agent
+could I register more than one fucking online account with a single email address?	create_account
+i wanna know if i can create two accounts with the samer email address	create_account
+can you tell me if i can register two accounts with the same email?	create_account
+I want to request an invoice, tell me where to do it	get_invoice
+I need information about changing my order	change_order
+I want to file a complaint, can you help me?	complaint
+i wanna know if i can download some invoices	get_invoice
+I changed my mind, what do I have to do to remove my profile?	delete_account
+I got an error message when I tried to pay, but my card was charged anyway, help me notify it	payment_issue
+I can't find my invoice, what do I have to do to see it?	check_invoices
+i want to know something about getting some invoices	get_invoice
+information about the mail of the Client Service	contact_customer_service
+can you tell me if I can register several fucking profiles with a single email address?	create_account
+where to delete my user account	delete_account
+I'm discontent with the service, what can I do to make a consumer complaint?	complaint
+can I view the cancellation penalties?	check_cancellation_fee
+can you tell me if i can own more than one user account?	create_account
+i got an error when i attempted to pay, but my card was charged anyway, what should i do?	payment_issue
+can I update my profile?	edit_account
+i have a problem making a payment, what should i do to report it?	payment_issue
+i want an account, can u create one?	create_account
+I haven't got an acount, what do I have to do to register?	create_account
+show me yoru moneh back policy	check_refund_policy
+i lost my invoices, how do i check them?	check_invoices
+ask an agent how i can check the status of my refund	track_refund
+I want information about your mnoney back guarantee	check_refund_policy
+I don't like the service, help me make a consumer complaint	complaint
+i have an issue when trying to pay, can u help me?	payment_issue
+I got an error when I tried to pay, but my card was charged anyway, what do I have to do to report it?	payment_issue
+I have an issue when trying to make a payment and I want to inform of it	payment_issue
+I have an issue when trying to pay for my order, can I inform of it?	payment_issue
+an error pops when I attempt to make a payment for my online order, can you help me?	payment_issue
+could you ask an agent how I could view their fucking money back guarantee, please?	check_refund_policy
+ask an agent to inform of payment issues	payment_issue
+I have a problem paying with card, what do I have to do?	payment_issue
+where do I write a comment for a service?	review
+I have an issue when trying to make a payment with card, what do I have to do to notify it?	payment_issue
+I want to notify an issue with my payment	payment_issue
+what can you tell me about receiving the newsletter?	newsletter_subscription
+how do I view my bill?	check_invoices
+I don't like the service, what do I have to do to make a consumer complaint?	complaint
+I purchased an item, what can i do to modify my order?	change_order
+please, can u ask an agent if there is an newsletter i could subscribe to ?	newsletter_subscription
+i want to get information about seeing an invoice	get_invoice
+I want a refund, helpme request one	get_refund
+i want information, how can i contact client service?	contact_customer_service
+can u ask an agent how to solve problems making a payment?	payment_issue
+can you tell me if i can make a payment with Master Card?	check_payment_methods
+i dont have an account, how do i open one?	create_account
+the event was cancelled, what can I do to request a reimbursement?	get_refund
+can I esnd an email to Client Service?	contact_customer_service
+i didn't receive my bills, show them	check_invoices
+can you tell me if i can create several online accounts with the same email address?	create_account
+I lost my invoices, can you check them?	check_invoices
+i have no shipping address, how can i set it up?	set_up_shipping_address
+i have an issue paying with card, notify it	payment_issue
+I have an issue paying, what do I have to do to notify it?	payment_issue
+the event was cancelled, can you help md?	get_refund
+I can't understand you, can you contact a person?	contact_human_agent
+i didn't receive my invoices, could u view them, please?	check_invoices
+i want to check m order	track_order
+i bought an item and I'd like to change my order, please	change_order
+I have no user account, what do I have to do to create one?	create_account
+what information do you have about seeing some bills?	get_invoice
+I have a question, can you contact Customer Support?	contact_customer_service
+I want to obtain a bill, tell me how to do it	get_invoice
+I am discontent with the service, I need help lodging a complaint, please	complaint
+i want to solve problems making a payment	payment_issue
+i have no user account, what should i do to create one?	create_account
+can u ask an agent if i can notify problems making a payment?	payment_issue
+i have an issue when trying to pay for my online order, could u inform of it, please?	payment_issue
+how can I see your refund policy?	check_refund_policy
+I'm not happy with the service, can I make a consumer complaint?	complaint
+my profile's been hacked and i want to get it back	recover_password
+I do not have a fucking online account, can you help me?	create_account
+I want to reset my account password, what do I have to do?	recover_password
+I made a mistake, what do I have to do to modify my purchase?	change_order
+can u ask an agent how i could inform of a problem paying, please?	payment_issue
+I want to get information about modifying my order	change_order
+I want to know when my tickets are going to arrive	delivery_period
+help me check the cancellation fee	check_cancellation_fee
+can Isee your moey back policy?	check_refund_policy
+I want to track my packages, tell me where to do it	track_order
+I want to track my package, tell me were to do it	track_order
+im happy with the service, help me lodge a review	review
+ask an agent how i can report a payment problem	payment_issue
+please, can u ask an agent to show me information about their money back policy?	check_refund_policy
+can you tell me the mail address to contact Customer Service?	contact_customer_service
+I want to request an invoice, can you tell me where I can do it?	get_invoice
+I' trying to open an account but I can't	registration_problems
+I want to request information about downloading somefucking bills	get_invoice
+ask an agent where I could see the delivery options, please	delivery_options
+could you ask an agent how to notify problems making a payment?	payment_issue
+help me receive a reimbursement	get_refund
+I want to make a review for a service, what should I do?	review
+where to set up my shipping address	set_up_shipping_address
+ask an agent if i can cancel my account	delete_account
+how do I check my invoices?	check_invoices
+i want to remove my user account	delete_account
+help me lodge a complaint	complaint
+I forgot my account password, can I recover it?	recover_password
+I want to report an issue with my payment, what can I do?	payment_issue
+how do I register?	create_account
+i am happy with the service, what should i do to submit a comment?	review
+how can I inform of a payment issue?	payment_issue
+I have no account, what can I do?	create_account
+could you ask an agent to change to another fucking online account, please?	switch_account
+i have an issue when trying to pay with card, what can i do?	payment_issue
+i have an issue paying, i need help notifying it	payment_issue
+I ordered an item, can I change my order?	change_order
+I lost my password, what can I do to retrieve it?	recover_password
+u are not helping, talk to someone	contact_human_agent
+i want to know when my tickets are gonna arrive	delivery_period
+I want to use my other account, can you change them?	switch_account
+i want information, how can i speak with client service?	contact_customer_service
+where can I view your reimbursement policy?	check_refund_policy
+I lost my invocie, can I see it?	check_invoices
+ask an agent if i could remove my fucking user account	delete_account
+I purchased a product, how do I change my order?	change_order
+please, ask an agent how i could report isuses making a payment	payment_issue
+track my delivery	track_order
+an error pops when I try to pay with card, what can I do?	payment_issue
+I want to file a consumer complaint for a service, can you help me?	complaint
+i want to see the status of my reimbursement, what can i do?	track_refund
+I wanna change my purchase, tell me how to do it	change_order
+I want to check the status of my refund, can you help me ?	track_refund
+I haven't got an online account,  I need help creating one	create_account
+tell me where to track my packages	track_order
+can u ask an agent were to see my invoice?	check_invoices
+how can I change to another profile?	switch_account
+I don't understand you, can you talk to a petson?	contact_human_agent
+ask an agent if i could track my fucking packages	track_order
+can you ask an agent if I could view the ticket delivery options?	delivery_options
+I have a problem when trying to pay for my order , help me report it	payment_issue
+ask an agent for information about my bills	check_invoices
+how to notify problems making a pyment	payment_issue
+i need information, how could i contact customer service?	contact_customer_service
+i have an issue paying for my order and i wanna report it	payment_issue
+ask an agent about the options for delivery	delivery_options
+how to check my bills	check_invoices
+help me see some invoices	get_invoice
+i have a problem when trying to make a payment, can u inform of it?	payment_issue
+i didn't receive my invoice, how can i see it?	check_invoices
+can I inform of issues paying?	payment_issue
+I want to write a comment for a service	review
+how can i lodge a fucking consumer complaint?	complaint
+ive got no profile, what can i do to create one ?	create_account
+i want to know if there's a newsletter to stay informed	newsletter_subscription
+I want to view the delivery options, what do I have to do?	delivery_options
+i wanna cancel an order, what should i do?	cancel_order
+i want to know what the mail of the Client Service is	contact_customer_service
+I didn't receive my invoice, what do I have to do to view it?	check_invoices
+ask an agent to notify problems making a payment	payment_issue
+I want information, what should I do to speak with Client Service?	contact_customer_service
+I want to notify problems with my paymen	payment_issue
+tell me if I can create several profiles with a single email address	create_account
+where can I view the cancellation fee?	check_cancellation_fee
+I'm having issues when trying to create a profile	registration_problems
+I have a problem paying for my online order, I need help informing of it	payment_issue
+I got an error when I attempted to make a payment, but I was charged anyway, what should I do ?	payment_issue
+i got an error message when i tried to make a payment, but my card was charged anyway, how can i report it?	payment_issue
+I'm not happy with the service and I want to make a complaint	complaint
+I want to know about modifying my purchase	change_order
+I don't have a user account, how do I create one?	create_account
+is there any person available?	contact_human_agent
+I need an online account, how can I open one?	create_account
+I bought a product, how do I change my purchase?	change_order
+please, can you tell me if I can register two user accounts with a single email?	create_account
+I need information, can I contact Customer Service?	contact_customer_service
+the show was postponed, what should I do to request a reimbursement?	get_refund
+can I see the cancellation fees?	check_cancellation_fee
+I want to see cancellation penalties, what do I have to do?	check_cancellation_fee
+I don't want my online account, help me delete it	delete_account
+someone stole my account password, whzt should I do?	recover_password
+I got an error when I attempted to pay, but I was charged anyway, can you inform of it?	payment_issue
+can you telp me if I can create several user accounts with a single email?	create_account
+tell me if I can register two user accounts with a single email	create_account
+I got a error message when I attempted to pay, but I was chargd anyway, how do I notify it?	payment_issue
+I don't have an online account, can I register?	create_account
+I want to cancel a purchase, what can I do?	cancel_order
+could u give me information about the email of the Customer Service, please?	contact_customer_service
+I lost my password, helpme recover it	recover_password
+I want to open an account, what do I have to do?	create_account
+can you tell me the mail address of customer service?	contact_customer_service
+I bought a product, what should I do to change my purchase?	change_order
+I want to know how to get some invoices	get_invoice
+I want information, help me contact Client Service	contact_customer_service
+ have a question, can you call Customer Service?	contact_customer_service
+please, ask an agent to create a fucking user account	create_account
+youre not helping, help me speak with a person	contact_human_agent
+i want to delete my profile, where can i do it?	delete_account
+i wanna speak with a human agent	contact_human_agent
+can u ask an agent if I can see some bills?	get_invoice
+I got an error message when I tried to pay, but my card was charged anyway and I want to notify it	payment_issue
+I don't have a shipping address and I want to set it up	set_up_shipping_address
+i want to know what the mail of Customer Service is	contact_customer_service
+I have a problem paying with card, can you notify it?	payment_issue
+I lost my fucking bills, what should I do to view them?	check_invoices
+ihave an issue making a payment, can i inform of it?	payment_issue
+I have an issue paying for my online order, what can I do to notify it?	payment_issue
+please, could you show me information about the email address of the Customer Support?	contact_customer_service
+you're not helping, contact a human	contact_human_agent
+I want to know if there is any human available	contact_human_agent
+ask an agent how to write a comment for a service	review
+i havent got a online account and i wanna create one	create_account
+please, I want to know if I can create several fucking user accounts with the same email address	create_account
+can you download some bills?	get_invoice
+ask an agent if i can solve problems with my payment	payment_issue
+ask an agent how to file a complaint	complaint
+show me the free number of Customer Support	contact_customer_service
+I want to delete my account, where can I do it?	delete_account
+can you show me the mail address of the Customer Service?	contact_customer_service
+i havent got an online account, what do i have tto do to register?	create_account
+a error pops when I try to pay for my online order, what should I do?	payment_issue
+I got an error when I tried to pay, but I was charged anyway, can you inform of it?	payment_issue
+an error pops when I attempt to make a payment for my order, what do I have to do?	payment_issue
+I need information , can I send an email to Client Service?	contact_customer_service
+I want to change my purchase before you send it	change_order
+I can't find my invoice, how can I view it?	check_invoices
+ask an agent if there is a free phone number to contact client service	contact_customer_service
+i want to submit a complaint for a service, what should i do?	complaint
+help me retrieve my account password	recover_password
+im discontent with the service and i want to lodge a complaint	complaint
+I wanna request information about requesting a bill	get_invoice
+an error message pops when I attempt to make a payment with card, can you help me?	payment_issue
+i wanna know what the email to contact client service is	contact_customer_service
+I got an error when I attempted to pay, but I was charged anyway, what can I do to notify it?	payment_issue
+I want information, help me speak with Customer Support	contact_customer_service
+I want a user account, how can I open one?	create_account
+an error pops qhen I attempt to make a payment with cardf, what should I do?	payment_issue
+whats the mail to contact Client Service?	contact_customer_service
+ask an agent how to inform of payment problems	payment_issue
+I've got no online account, can I register?	create_account
+I can't find my bills, how can I check them?	check_invoices
+i cant remember my account password, retrieve it	recover_password
+I want to know if I can register two online accounts with the same email	create_account
+i want to know if i can have several user accounts	create_account
+help me notifby a problem paying	payment_issue
+I want information, what do I have to do to send an email to Customer Service?	contact_customer_service
+tell me about requesting some invoices	get_invoice
+what information can you tell me about downloading some invoices?	get_invoice
+can you ask an agent for information about getting a bill?	get_invoice
+help me solve problems with my payment	payment_issue
+how can I view the status of my reimbursement?	track_refund
+how can I notify issues making a payment?	payment_issue
+I want a profile, what can I do to create one?	create_account
+I have no account, what should I do to  create one?	create_account
+you're not helping and I want to speak with a human agent	contact_human_agent
+I have a question, speak with Customer Support	contact_customer_service
+tell me how I can get a bill	get_invoice
+where do I track my shipments?	track_order
+please, can u ask an agent if i can report fucking payment issues?	payment_issue
+can u ask an agent where i can report an issue with my payment?	payment_issue
+i wanna know if I can obtain some invoices	get_invoice
+tell me if I can create two accounts with a single email	create_account
+where do i view the cancellation penalties ?	check_cancellation_fee
+I want to see a bill, tell me how to do it	get_invoice
+how to view my bills	check_invoices
+I need information, what can I do to contact Client Service?	contact_customer_service
+I want to report an issue paying, what do I have to do?	payment_issue
+can u ask an agent where to lodge a consumer complaint for a service?	complaint
+I want to know what the email address to contact Client Service is	contact_customer_service
+I want to track my packages, can you tell me how to do it?	track_order
+an error pops when I try to pay, can you help me?	payment_issue
+tell me how I can track my orders	track_order
+I wanna obtain some bills , can you tell me how to do it?	get_invoice
+I want to know what the frere number of Customer Service is	contact_customer_service
+I got an error message when I attempted to make a payment, but I was charged anyway, can you inform of it?	payment_issue
+tell me how I can know where my package is	track_order
+i want a user account, help me open one	create_account
+could you ask an agent if I can notify a problem making a payment?	payment_issue
+how can I set up my shipping addess?	set_up_shipping_address
+can you tell me if my refund was processed?	track_refund
+i wanna know if i can craete several accounts with a single email	create_account
+ask an agent how i can close my profile	delete_account
+i got an error when i attempted to make a payment, but i was charged anyway, how can i notify it?	payment_issue
+please, can u ask an agent where to inform of issues with my payment?	payment_issue
+i have no online account, i need help opening one	create_account
+the event was cancelled, obtain a refund	get_refund
+i dont understand you, i need help talking to someone, please	contact_human_agent
+can I check the ticket delivery options?	delivery_options
+how can I remove my account ?	delete_account
+what's the email to contact Customer Service?	contact_customer_service
+can you tell me how I can change my order?	change_order
+I want a reimbursement, what do I have to do?	get_refund
+can you tell me if i can register several profiles with the same email address?	create_account
+I want to know what the email of the Client Service is	contact_customer_service
+i have no shipping address, how do i set it up ?	set_up_shipping_address
+tell me if I cann register two profiles with a single email address	create_account
+I want to submita comment, what do I have to do?	review
+I don't have a profile	create_account
+i need information about my invoice	check_invoices
+help me make a consumer complaint for a service	complaint
+i have an problem when trying to pay with  card and i wanna inform of it	payment_issue
+I have an issue when trying to pay with card, I need help reporting it	payment_issue
+i want information about the email of the Client Service , please	contact_customer_service
+sak an agentz how i can make a purchase	place_order
+my user account's been hacked, what do I have to do to get it back?	recover_password
+where can I report problems making a payment?	payment_issue
+my account was hacked and i wanna recover it	recover_password
+I want to view my invoice, hwat do I have to do?	check_invoices
+i'd like to get some fucking bills, tell me how to do it, please	get_invoice
+tell me how I can know where my order is	track_order
+I don't have an online account, how can I open one?	create_account
+i dont understand you, i need help talking to a person	contact_human_agent
+I don't want my online account and I want to delete it	delete_account
+how to  inform of an payment issue	payment_issue
+ask an agent where i could check my fucking bills, please	check_invoices
+the show was postponed and i wanna obtain a refund, please	get_refund
+i need help contacting client service	contact_customer_service
+im not happy with the service, can i submit a consumer complaint?	complaint
+I'm happy with the service, can I make a review?	review
+i want information, can i speak with customer service?	contact_customer_service
+I didn't receive my invoices, what should I do to see them?	check_invoices
+how to reset my account password	recover_password
+I'm not happy with the service, can I submit a complaint?	complaint
+i wanna see the ticket delivery options, what do i have to do?	delivery_options
+I need help seeing the options for ticket delivery	delivery_options
+an error pops when i attempt to pay, can u help me?	payment_issue
+I want to check camcellation fees, what should I do?	check_cancellation_fee
+my account has been hacked, could u get it back?	recover_password
+can you tell me if I can see some bills?	get_invoice
+ask an agent to check the options for ticket delivery	delivery_options
+I want to view the cancellation fee, can you help me?	check_cancellation_fee
+please, could you ask an agent where to delete my user account?	delete_account
+I purchased a product and I want to change my order	change_order
+I have a problem when trying to pay with card, can I report it?	payment_issue
+whenwill my shipment arrive?	track_order
+I have a problem when trying to pay for my order, how do I report it?	payment_issue
+i wanna notify a payment issue, what should i do?	payment_issue
+i want to check cancellation penalties, what should i do?	check_cancellation_fee
+how can i check my invoice?	check_invoices
+my online account's been hacked	recover_password
+sak an agent how to leave a review	review
+please, ask an agent to solve an issue with my payment	payment_issue
+I got an error when I attempted to pay, but my card was charged anyway, what can I do to report it?	payment_issue
+I want to view the status of my refund, what can I do?	track_refund
+i need a reimbursement, what should i do to obtain one?	get_refund
+tell me where I can modify my purchase	change_order
+i changed my mind, how could i close my account?	delete_account
+I want to know how I can see a bill	get_invoice
+i have no shipping address, what should i do to set one up?	set_up_shipping_address
+i want to open a user account, what can i do?	create_account
+I bought something, what do I have to do to modify my purchase?	change_order
+can you ask an agent to show me information about the statsu of my purchase, please?	track_order
+im happy with the service , lodge a comment	review
+I don't have an online account, what can I do to create one?	create_account
+I want to make a review, what should I do?	review
+I lost my account password, how could I reset it?	recover_password
+I made a mistake, I need help modifying my order	change_order
+i wanna know how I can see an invoice	get_invoice
+how can I receive the newsletter?	newsletter_subscription
+can you tel me what the free no of Client Service is?	contact_customer_service
+i dont have a user account and i want to open one, please	create_account
+I need an account, can I open one?	create_account
+i dont have a user account	create_account
+how do i contact client service?	contact_customer_service
+can you tell me if I can see a bill?	get_invoice
+I want to change my order before you send it	change_order
+send me an invoice	get_invoice
+how can I register?	create_account
+you're not helping, what do I have to do to contact someone?	contact_human_agent
+i want to see your payment options, can u help me?	check_payment_methods
+could you show me information about the mail address to contact Customer Service, please?	contact_customer_service
+what information do you have about obtaining a bill?	get_invoice
+can u ask an agent to inform of problems making a payment, please?	payment_issue
+ask an agent for information about downloading a bill	get_invoice
+what information can you tell me about downloading a bill?	get_invoice
+the payment didn't go through, what should I do?	payment_issue
+could u speak with a person, please?	contact_human_agent
+I haven't got a user account and I want to register, please	create_account
+I have an issue paying for my online order, can you notify it?	payment_issue
+I want to use my other online account, help me switch them	switch_account
+i lost my password, how can i retrieve it?	recover_password
+i got an error when i tried to make a payment, but my card was charged anyway, can i inform of it?	payment_issue
+where to lodge a consumer complaint	complaint
+i wanna solve a issue with my payment, what should i do?	payment_issue
+I have no online account, what van I do?	create_account
+I found a problem while registering	registration_problems
+I want to obtain some bills, can you show me some information?	get_invoice
+i wanna see my bills, can u help me?	check_invoices
+i want to lodge a complaint for a service	complaint
+how can I view the ticket delivery options?	delivery_options
+I want to check my bills, what should I do ?	check_invoices
+could you tell me the email to contact Client Service, please?	contact_customer_service
+I'm discontent with the service, help me lodge a consumer complaint	complaint
+I want to view the status of my refund, can you help me?	track_refund
+I got an error message when I attempted to pay, but I was charged anyway, what can I do to notify it?	payment_issue
+i get an error message when i try to pay with card, what can i do?	payment_issue
+can you tell me if i can create several profiles with the same email address?	create_account
+i got an error message when i attempted to pay , but i was charged anyway, how can i notify it?	payment_issue
+ask an agent where to track my package	track_order
+how to write a review	review
+id like information, can i call customer support, please?	contact_customer_service
+I have an issue paying and I want to inform of it	payment_issue
+can you show me the email of Customer Support?	contact_customer_service
+i wanna make an opinion for a service, what do i have to do?	review
+I need information, send an email to Client Service	contact_customer_service
+I get an error when I attempt to make a payment	payment_issue
+I need an online account, I need help opening one	create_account
+id like to see my bill, can u help me?	check_invoices
+an error message pops when I try to make a payment, can you help me?	payment_issue
+can you tell me if i could register several accounts with the same email address?	create_account
+ask an agent to notify problems paying	payment_issue
+i dont want my online account, how do i close it?	delete_account
+help me check the cancellation fees	check_cancellation_fee
+please, ask an agent to inform of a fucking issue with my payment	payment_issue
+can I speak with a human?	contact_human_agent
+can you contact Customer Service?	contact_customer_service
+please, can you show me information about the delivery options?	delivery_options
+I got an error when I tried to make a payment, but my card was charged anyway, help me notify it	payment_issue
+i have a problem when trying to pay and i wanna report it	payment_issue
+I don't understand you, how can I talk to a human agent?	contact_human_agent
+the game was cancelled, how can i get a refund?	get_refund
+I get an error when I try to make a payment for my online order, can you help me?	payment_issue
+i got a error message when i attempted to pay, but i was charged nayway, what do i have to do?	payment_issue
+is there a newsletter to keep me informed?	newsletter_subscription
+ask an agent how I can notify an issue making a payment, please	payment_issue
+can I modify the information on my profile?	edit_account
+I want to check the options for delivery, what can I do?	delivery_options
+I have an issue paying, can you report it?	payment_issue
+I forgot my password , what do I have to do?	recover_password
+tell me if I can register several online accounts with a single email address, please	create_account
+is there a newsletter to stay informed?	newsletter_subscription
+how to change the information on my profile	edit_account
+I got no payment confirmation, what can I do?	payment_issue
+I purchased an item and I want to change my purchase	change_order
+I want to know if there is any person available	contact_human_agent
+an you tell me if I can own more than one profile?	create_account
+ask an agent where i could report issues making a payment	payment_issue
+I want information, can you call Customer Support?	contact_customer_service
+where can I switch to another account?	switch_account
+i have a problem paying , what  do i have to do to report it?	payment_issue
+the show was cancelled and I want to get a refund	get_refund
+I changed my mind, close my account	delete_account
+I ordered a product and i wanna change my purchase	change_order
+where do I see the cancellation penalties?	check_cancellation_fee
+I got an error message when I attempted to pay, but I was charged anyway, what should I do to notify it?	payment_issue
+I need help speaking with a person	contact_human_agent
+i wanna see your refund policy, what shiuld i do?	check_refund_policy
+I'm not happy with the service, what should I do to lodge a consumer complaint?	complaint
+I want to see the number to contact Client Service	contact_customer_service
+ask an agent where to view my invoices	check_invoices
+I have a question, how can I send an emaul to Customer Service?	contact_customer_service
+can I cancel my user acciunt ?	delete_account
+I want to get some invoices, can you tell me how to do it?	get_invoice
+i have a question and i want to talk to customer support, please	contact_customer_service
+i wanna see the ticket delivery options	delivery_options
+where do i see your money back policy?	check_refund_policy
+i want to request some invoices, tell me how to do it	get_invoice
+I can't create a profile	registration_problems
+please, ask an agent how I could notify problems making a payment	payment_issue
+how can I switch to another online account?	switch_account
+cn  you ask an agent how to check my shipment?	track_order
+please, could you ask an agent how to check my shipments?	track_order
+I want to create a profile, what can I do?	create_account
+I lost my bills, can I see them?	check_invoices
+ask an agent how to view my bill, please	check_invoices
+please, ask an agent how i could contact customer service	contact_customer_service
+I bought an item ands I want to modify my purchase	change_order
+can yyou check my shipment ?	track_order
+how do I lodge a complaint ?	complaint
+I can't understand you, what should I do to talk tl a person?	contact_human_agent
+i wanna lodge a consumer complaint, what do i have to do?	complaint
+I haven't got a user account, can you help me?	create_account
+ask an agent how i could inform of a problem paying, please	payment_issue
+can you tell me where to check my shipments?	track_order
+please, could u ask an agent how i can notify a fucking payment issue?	payment_issue
+can I contact Client Service?	contact_customer_service
+I'm happy with the service, make an opinion	review
+you're not helping, how can I contact a human agent?	contact_human_agent
+ive got no online account, i need help opening one	create_account
+how do I make an order?	place_order
+I have a problem when trying to pay and I want to notify it	payment_issue
+please, ask an agent if I could see the fucking cancellation fees	check_cancellation_fee
+I want to cancel my account	delete_account
+I got anerror when I attempted to make a payment, but I was charged anyway, I need help reporting it	payment_issue
+I need information , what can I do to send an email to Customer Support?	contact_customer_service
+could you ask an agent how to report problems with my payment?	payment_issue
+help me see the status of my order	track_order
+i cant understand you and i wanna speak with a human agent	contact_human_agent
+I want to cancel my online account	delete_account
+i need help seeing an invboice	get_invoice
+I'm interested in your money back guaranree and I want to know about it	check_refund_policy
+I have a problem opening an account	registration_problems
+the event was cancelled and i want to get a refund	get_refund
+I'm discontent with the service, can I submit a complaint?	complaint
+I haven't got an online account, how can I register?	create_account
+how can I create a profile?	create_account
+I want to submnit a comment, what should I do?	review
+please, can you ask an agent if I could lodge a fucking complaint for a service?	complaint
+please, can you ask an agent where to notify a problem with my payment?	payment_issue
+i wanna see the number to contact client service	contact_customer_service
+i got an error message when i tried to make a payment, but i was charged anyway, inform of it, please	payment_issue
+i have an issue when trying to make a payment, could u report it, please?	payment_issue
+i wanna view the options for ticket delivery, what do i have to do?	delivery_options
+i want to request informatoin about obtaining an invoice	get_invoice
+the game was cancelled, what do I have to do?	get_refund
+can you track my package?	track_order
+can you show me information about your refund policy?	check_refund_policy
+I need inforation about my bill	check_invoices
+I would like an online account, can you create one, please?	create_account
+can you speakwith a human?	contact_human_agent
+I need help making a purchase	place_order
+ask an agent how i can remove my account, please	delete_account
+I don't want my online  account, how can I csncel it?	delete_account
+tell me if there is a free phone no to contact Customer Service	contact_customer_service
+someone stole my account password, what can I do to retrieve it?	recover_password
+I have a problem when trying to pay with card, I need help informing of it	payment_issue
+I got an error when I attempted to pay, but I was charged anyway, help me inform of it	payment_issue
+i got an error when i tried to make a payment, but i was charged anyway, how can i report it?	payment_issue
+can u ask an agent how to inform of an issue paying?	payment_issue
+I got an error when I attempted to make a payment, but my card was charged anyway, can you report it?	payment_issue
+ask an agent how to notify a problem with my payment	payment_issue
+can you ask an agent if i can download a bill?	get_invoice
+I changed my mind, can you close my online account?	delete_account
+I want to download an invoice, can you show me some information?	get_invoice
+can you ask an agent if i can see a bill?	get_invoice
+I need a user account, can I open one?	create_account
+please, can u find information about the delivery options?	delivery_options
+I'd like to inform of a problem paying, can you help me?	payment_issue
+I want to know where I can track my orders	track_order
+the concert was cancelled, what should I do to obtain a reimbursement?	get_refund
+you arent helping, what do i have to do to speak with a human agent?	contact_human_agent
+i have an issue paying, can u inform of it?	payment_issue
+i want information about my bills	check_invoices
+i want to know if i can own several profiles	create_account
+I need help speaking with a human agent	contact_human_agent
+how to notify a problem wiht my payment	payment_issue
+where can i receive a refund?	get_refund
+you arent helping and i wanna contact a person	contact_human_agent
+I changed my mind, how can I close my profile?	delete_account
+i need information, can u send an email to customer support?	contact_customer_service
+could u ask an agent how i can switch to another user account?	switch_account
+ask an agent how i can make a consumer complaint, please	complaint
+could u ask an agent where to view my fucking bills, please?	check_invoices
+i need a refund, help me request one	get_refund
+what information can u tell me about getting a bill?	get_invoice
+can you tell me what the free phone no to contact Customer Support is?	contact_customer_service
+I want information about the mail of the Customer Service	contact_customer_service
+where do I view the cancellation fees?	check_cancellation_fee
+I can't find my bill , what can I do to check it?	check_invoices
+I can't find my invoices, how do I view them?	check_invoices
+the show was cancelled, can I get a reimbursement?	get_refund
+ask an agent if i can obtain some invoices	get_invoice
+i get an error message when i try to pay for my online order, can u help me?	payment_issue
+I want a user account, what do I have to do?	create_account
+I got an error message when I tried to pay, but I was charged anyway, what can I do to notify it?	payment_issue
+ask an agent where I can check my deliveries	track_order
+I need information about your money back policy	check_refund_policy
+you're not helping, how do I talk to a huamn?	contact_human_agent
+can you tell me if I can register two accounts with a single email?	create_account
+you're not helping, what can I do to speak with a human?	contact_human_agent
+how can I close my account?	delete_account
+I want to check my order, tell me how I can do it	track_order
+can I register two accounts with the same email?	create_account
+I can't find my invoice, what should I do to see it?	check_invoices
+can you show me the number of Customer Support?	contact_customer_service
+I want to check my shipments, can you tell me where I can do it?	track_order
+I want to obtain some invoices, can you give me some information?	get_invoice
+how to view the cancellation fee	check_cancellation_fee
+i need information, help me contact customer support	contact_customer_service
+i havent got an online account, what can i do to create one?	create_account
+the concert was postponed, what can i do to obtain a reimbursement?	get_refund
+ask an agent if I could notify an issue with my payment, please	payment_issue
+I haven't got an account and I want  to register	create_account
+ive got no account, can u open one?	create_account
+I want to  check your money back pplicy, what do I have to do?	check_refund_policy
+I need information about your payment option	check_payment_methods
+can you tell me when my tickets will arrive?	delivery_period
+can u ask an agent how to check the cancellation penalty?	check_cancellation_fee
+can i change to another user account?	switch_account
+I chnaged my mind, I need help deleting my user account	delete_account
+I need informationand I want to talk to Client Service	contact_customer_service
+how could I inform of a problem making a payment?	payment_issue
+please, can u ask an agent if I can change my purchase?	change_order
+can you tell me how I can request some bills ?	get_invoice
+I need information about seeing some invoices	get_invoice
+I want to file a complaint for a service, can you help me?	complaint
+u are not helping and i want to contact a human	contact_human_agent
+I changed my mind, can I cancel my profile?	delete_account
+tell me if I can get a fucking bill	get_invoice
+i want to view the status of my reimbursement, can u help me?	track_refund
+ask an agent how i can report issues making a payment	payment_issue
+I want to modify my order, can you tell me how I can do it?	change_order
+i can't find my invoices, help me  view them	check_invoices
+I have an issue when trying to make a payment, can I notify it?	payment_issue
+i want to see the free number of client service	contact_customer_service
+can u ask an agent to inform of a payment issue?	payment_issue
+how to close my user account	delete_account
+I've got no account, what can I do to create one?	create_account
+I have a problem making a payment, can I inform of it?	payment_issue
+I have a questgion, help me speak with Client Service	contact_customer_service
+I want to solve an issue paying	payment_issue
+I want informatiopn about getting some bils	get_invoice
+i wanna see the fucking status of my refund, what can i do?	track_refund
+I want information, help me talk to Client Service	contact_customer_service
+I changed my mind, I need help removing my account	delete_account
+I lost my invoice, I need help viewing it	check_invoices
+I need help filing a consumer complaint	complaint
+where can I set up my shkpping address?	set_up_shipping_address
+I don't understand you and I'd like to talk to fucking someone	contact_human_agent
+help me solve problems making a payment	payment_issue
+I want information, how can I contact Customer Service?	contact_customer_service
+can i report problems with my payment?	payment_issue
+can you find information about the status of my reimbursement?	track_refund
+i want to check your reimbursement policy, can u help me?	check_refund_policy
+tell me what payment methodsyou accept	check_payment_methods
+please, ask an agent if i can obtain some bills	get_invoice
+I can't find my bill and I want to view it	check_invoices
+where to notify payment issues	payment_issue
+where can I view your money back policy?	check_refund_policy
+an error pops when I try to make a payment for my online order, what can I do?	payment_issue
+how do I view the options for delivery?	delivery_options
+how do I request a bill?	get_invoice
+where to file a complaint	complaint
+show me the free no to contact Customer Service	contact_customer_service
+I want to maked an order, what can I do?	place_order
+I have a question, what can I do to contact Client Service?	contact_customer_service
+I want to receive the newsletter, can you show me some information?	newsletter_subscription
+an error pops when i try to pay with card, can u help me?	payment_issue
+how can i view my invoice?	check_invoices
+the game was cancelled, how can I request a refund?	get_refund
+where do i place an order?	place_order
+id like to make a purchase	place_order
+show me the free phone number to contact Customer Support	contact_customer_service
+I need information, how can I call Customer Support?	contact_customer_service
+I got an error message when I tried to pay, but my card was charged anyway, what do I have to do to inform of it?	payment_issue
+i wanna update my shipping address, what can i do?	change_shipping_address
+i purchased an item, what should i do to change my order?	change_order
+I've got no user account, I need help creating one	create_account
+help me file a complaint for a service	complaint
+I'm discontent with the service, what do I have to do to ldge a complaint?	complaint
+I got an error message when I attempted to pay, but my card was charged anyway, can I inform of it?	payment_issue
+I want to cancel my account, where can I do it?	delete_account
+I want to know where I cvan get a bill	get_invoice
+i wanna see a bil	get_invoice
+I need help tacking my shipments	track_order
+can u ask an agent where i can open an online account?	create_account
+I need help seeing the cancellation fee	check_cancellation_fee
+I ot an error when I tried to make a payment, but my card was charged anyway, can I notify it?	payment_issue
+i didn't receive my invoice, how can i view it?	check_invoices
+hwere to report a payment problem	payment_issue
+I want to get a reimbursement	get_refund
+I want information, I need help sending an email to Customer Service	contact_customer_service
+I ordered a product, help me change my order	change_order
+I want to know how fast I can expect my tickets to arrive	delivery_period
+I got an error message when I tried to make a payment, but I was charged anyway, what should I do?	payment_issue
+I need an online account, help me open one	create_account
+can u ask an agent if they have a newsletter I can subscribe to?	newsletter_subscription
+were do I view the status of my order?	track_order
+how do I reset my password?	recover_password
+I've got no account, what should I do to open one?	create_account
+I get an error message when I attempt to pay for my order, what do I have to do?	payment_issue
+k have an problem when trying to pay for my online order, i need help informing of it	payment_issue
+could i register two online accounts with a single email address?	create_account
+can you ask an agent where I can change my order, please?	change_order
+I want to submit a comment, what can I do?	review
+I want to make a pucrhase, what can I do?	place_order
+can you ask an agent where I could report problems making a payment?	payment_issue
+I need information about your refund policy	check_refund_policy
+i changed my mind and i want to cancel my account	delete_account
+I have an issue when trying to make a payment, I need help reporting it	payment_issue
+I have a question, how do I speak with Customer Support?	contact_customer_service
+i wanna modify my purchase before you send it, please	change_order
+I need elp seeing the ticket delivcery options	delivery_options
+I didn't receive my bills, what do I have to do to check them?	check_invoices
+I got an error when I tried to pay, but I was charged anyway, report it	payment_issue
+you are not helping and I would like to speak with a human agent	contact_human_agent
+show me the email to contact Client Service	contact_customer_service
+I had an issue opening an account	registration_problems
+I ofrgot my password, help me retrieve it	recover_password
+could u ask an agent to cancel my profile, please?	delete_account
+you aren't helping, what should I do to speak with a human?	contact_human_agent
+i wanna view your money back policy	check_refund_policy
+how do i inform of an issue paying?	payment_issue
+can i create more than one profile with the same email address?	create_account
+what's the mail address to contact Customer eSrvice?	contact_customer_service
+I have a problem when trying to pay for my online order, help me inform of it	payment_issue
+I have a problem making a payment, report it	payment_issue
+i havent got an account and i wanna create one	create_account
+can you track my shipments?	track_order
+an error pops when i attempt to pay for my order, what can i do?	payment_issue
+please, could you tell me if I could own more than one account?	create_account
+i have a problem when trying to make a payment with card, what can i do?	payment_issue
+tell me if I can change my purchase	change_order
+can I receive a reimbursement?	get_refund
+an error message pops when I attempt to make a payment, what should I do?	payment_issue
+i need information, can i send an email to customer support?	contact_customer_service
+I want to know how  to track my orders	track_order
+ask an agent what the mail of the Customer Service	contact_customer_service
+I need information about seeing abill	get_invoice
+I want to cancel an order, what can I do?	cancel_order
+ask an agent where to view their reimbursement policy	check_refund_policy
+i want to create a fucking profile, can u help me?	create_account
+i made a mistake, what should I do to modify my purchase?	change_order
+I want to know how I can check my orders	track_order
+I changed my mind, can I cancel my online account?	delete_account
+I wanna download a bill, can you show me some information ?	get_invoice
+i purchased smethingand I want to change my order	change_order
+i want to make an opinion, what can i do?	review
+can i inform of an issue paying?	payment_issue
+is it possible to request some invoices?	get_invoice
+I need a reimbursemewnt, help me obtain one	get_refund
+what's the free number to contact Customer Service?	contact_customer_service
+i get an error message when i attempt to make a payment for my online order, what do i have to do?	payment_issue
+I need information, speak with Client Service	contact_customer_service
+I lost my account password, what should I do to retrieve it?	recover_password
+I have no online account, open one, please	create_account
+I want to request information about downloading an invoice	get_invoice
+I got an error when I attempted to make a payment, but my card was charged anyway and I want to inform of it	payment_issue
+ask an agent how to check their money back guarantee	check_refund_policy
+tell me if I can create  two profiles with the same email address	create_account
+ask an agent how I could recover my account password, please	recover_password
+I get an error message when I try to pay with card, can you help me?	payment_issue
+the game was cancelled and I want to get a refund	get_refund
+I want to make an opinion for a service, what can I do ?	review
+I don't want my online account, I need help deleting it	delete_account
+tell me what the mail of the Client Service is	contact_customer_service
+can I solve problems making a payment?	payment_issue
+I have a question, what should I do to call Customer Support?	contact_customer_service
+I'm not happy with the service, can you lodge a consumer complaint?	complaint
+I want information, help me send an email to Customer Support	contact_customer_service
+how do  I get some invoices ?	get_invoice
+i wanna know the status of my refund, what should i do?	track_refund
+i have a question, what should i do to speak with customer service?	contact_customer_service
+the show was cancelled, help me obtain a reimbursement	get_refund
+I'd like to get an invoice, can you give me some information?	get_invoice
+I want to inform of a payment problem, can you help me ?	payment_issue
+I want to know if I can register more than one account with a single email	create_account
+what can I get a refund for?	get_refund
+I ordered something, what can i do to change my order?	change_order
+can  you tell me if i can see a bill?	get_invoice
+i want to view the ticket delivery options, what can i do?	delivery_options
+i got an error message when i attempted to make a payment, but i was charged anyway, how do i notify it?	payment_issue
+how to inform of a problem with myu payment	payment_issue
+I need help changing to another user account	switch_account
+can I track my reimbursement?	track_refund
+I've got no profile, help me create one	create_account
+I have a problem when trying to pay	payment_issue
+an error pops when i attempt to make a payment with card	payment_issue
+I have an issue paying for my online order, can I report it?	payment_issue
+I can't remember my account password, what do I have to do to retrieve it?	recover_password
+is it possible to request an invoice?	get_invoice
+the game was cancelled, what do I have to do to request a reimbursement  ?	get_refund
+can u ask an agent if i can check the status of my refund?	track_refund
+where to switch to another online account	switch_account
+can you tell me how  I can know where my packages are ?	track_order
+what information do you have about requesting an invoice?	get_invoice
+ask an agent where to notify problems with my payment	payment_issue
+please, can u ask an agent where i can see the options for ticket delivery?	delivery_options
+tel me where to request a bill	get_invoice
+I have a question, what can I do to contact Customer Support?	contact_customer_service
+please, could u ask an agent where i can report an issue with my payment?	payment_issue
+can you obtain some invoices?	get_invoice
+can u ask an agent if i can report issues making a payment?	payment_issue
+i need information, can u send an email to customer service?	contact_customer_service
+where to check my orders	track_order
+I had issues creating a profile	registration_problems
+I'm not happy with the service , help me submit a complaint	complaint
+I need help leaving a comment	review
+I found problems when trying to sign up	registration_problems
+I don't like the service, file a complaint	complaint
+how to inform of a payment problem	payment_issue
+I want to modify my order, tell me how I can do it	change_order
+I lost my password and I want to retrieve it	recover_password
+I don't want my user account, help me remove it	delete_account
+I want an account and I want to open one	create_account
+can u ask an agent to show me my bill?	check_invoices
+im discontent with the service, what can i do to make a complaint?	complaint
+can you ask an agent where to track my orders?	track_order
+can you talk to fucking Client Service, please?	contact_customer_service
+could youask an agent what's the cancellation penalty?	check_cancellation_fee
+I want to track my orders, can you tell me how I can do it?	track_order
+can uask an agent if i can obtain a refund ?	get_refund
+I have a problem when trying to make a payment with card, what do I have to do to report it?	payment_issue
+can u ask an agent how i can notify an issue paying, please?	payment_issue
+I would like information, what can I do to speak with Client Service?	contact_customer_service
+i changed my mind, how do i cancel my profile?	delete_account
+I had problems while creating a profile	registration_problems
+I have a question, how can I talk to Customer Service?	contact_customer_service
+i want to change my purchase, tell me how I can do it	change_order
+i have a problem making a payment with card , what can i do to notify it?	payment_issue
+help me see my bills	check_invoices
+I need information, I need help calling Client Service	contact_customer_service
+show me the mail address of customer service	contact_customer_service
+the fucking game was postponed, what should i do to obtain a refund?	get_refund
+I need information, I need help speaking with Client Service	contact_customer_service
+I want to modify my order	change_order
+my online account's been hacked and I want to get it back	recover_password
+I haven't got an online account, can you create one?	create_account
+i have a question, how do i send an email to client servcie?	contact_customer_service
+could u ask an agent how to delete my profile?	delete_account
+I found an issue while creating a profile	registration_problems
+I changed my mind, can you cancel my online account?	delete_account
+please, can u ask an agent how to solve fucking payment issues?	payment_issue
+what's the free number of Customer Support?	contact_customer_service
+ask an agent if I could recover my account password	recover_password
+i want to use my other user account, how can i switch them?	switch_account
+i wanna request a bill, tell me where to do it	get_invoice
+I've got no user account, what do I have to do?	create_account
+you aren't helping, can I contact someone?	contact_human_agent
+I changed my mind, what should I do to cancel my user account?	delete_account
+I can't find my invoice, help me view it	check_invoices
+i havent got a user account and id like to create one	create_account
+I bought a product, how do I change my order?	change_order
+I'm happy with the service, how can I submit an opinion?	review
+i want to know if i can create two online accounts with the same email	create_account
+tell me if I can track my deliveries	track_order
+I got an error message when I tried to make a payment, but my card was charged anyway, can I report it?	payment_issue
+i changed my mind, what can i do to close my user acount?	delete_account
+I have a question and I want to talk toCustomer Service	contact_customer_service
+i want information about your payment methods	check_payment_methods
+can I switch to another account?	switch_account
+I got an error message when I tried to pay, but my card was charged anyway and I want to report it	payment_issue
+ask an agent what the email of client service is	contact_customer_service
+whats the delivery period for my ticket?	delivery_period
+I want to cancel my account, how can I do it?	delete_account
+how can I report payment problems?	payment_issue
+I want to get some bills, can you tell me how I can do it?	get_invoice
+I changed my mind, what should I do to delete my user account?	delete_account
+I'm happy with the service, what do I have to do to lodge a comment?	review
+tell me if I could have more than one account, please	create_account
+tell me if I can create two online accounts with a single email	create_account
+I forgot my account passsord, can you retrieve it?	recover_password
+i want to notify a payment problem, what should i do?	payment_issue
+tell me if theres a newsletter i can subscribe to	newsletter_subscription
+ask an agent if i can report problems paying	payment_issue
+i wanna see the fucking delivery period	delivery_period
+can u ask an agent how I can request an invoice?	get_invoice
+I want to use my other user account, what do I have to do to change them?	switch_account
+please, can you ask an agent how to report issues with my payment?	payment_issue
+how to report issues with my payment	payment_issue
+how do I delete my profile?	delete_account
+my user account's been hacked , what can I do to recover it?	recover_password
+how do i see the options for delivery?	delivery_options
+I can't find my bill, how do I view it?	check_invoices
+how to report problems paying	payment_issue
+I didn't receive my bill and I want to see it	check_invoices
+i got an error when i attempted to oay, but my card was charged anyway, what do i have to do to inform of it?	payment_issue
+i didn't receive my bills, how can i see them?	check_invoices
+I want to solve payment problems	payment_issue
+what information do you have about getting an invoice?	get_invoice
+ask an agent how i can leave a review for a service	review
+please, can you ask an agent how I could contact fucking Customer Service?	contact_customer_service
+I have a problem when trying to pay with card, holw do I inform of it?	payment_issue
+I want to know what the email of Client Service is	contact_customer_service
+where do I check the cancellation fees?	check_cancellation_fee
+the event was cancelled and I'd like to request a refund, please	get_refund
+can you show me the email address of the Customer Service?	contact_customer_service
+I got an error message when I tried to pay, but I was charged anyway, help me inform of it	payment_issue
+ask an agent if I can check my shipment	track_order
+I have a problem when trying to pay, can you notify it?	payment_issue
+I get an error message when I attempt to make a payment for my orer	payment_issue
+I don't have an online account, I need help registering	create_account
+I don't want my user account and I want to delete it	delete_account
+I need help solving a problem making a payment	payment_issue
+can i view my invoice?	check_invoices
+I have no user account, could I register?	create_account
+can u ask an agent where to report an issue paying?	payment_issue
+how can I notify payment issues?	payment_issue
+I need informationn about the mail of the Client Service	contact_customer_service
+I got an error message when I tried to make a payment, but I was charged anyway, what do I have to do to inform of it?	payment_issue
+I would like to use my other fucking online account, can you switch them, lpease?	switch_account
+I want to track my orders, tell me how I can do it	track_order
+I have an issue making a payment, can I notify it?	payment_issue
+I want to use my other online account, can I switch them?	switch_account
+I can't understand you, what can I do to speak with a person?	contact_human_agent
+the show was cancelled, what do I have to do to request a reimbursement?	get_refund
+I purchased an item, what should I do to modify my purchase?	change_order
+i want to get some invoices, can you give me some information?	get_invoice
+my user account's been hacked, what should i do?	recover_password
+iwant to know if i could register two accounts  with the same email address	create_account
+ask an agent where to leae a comment	review
+the show was postponed and I want to request an refund	get_refund
+tell me if I can check my packages	track_order
+I found problems when trying to create a profile	registration_problems
+I want a refund, what can I do?	get_refund
+I have a problem when trying to pay for my online order and I want to report it	payment_issue
+I need information, what can I do to send an email to Client Service?	contact_customer_service
+help me close my account	delete_account
+whwre can i view my bills?	check_invoices
+I have no online account and I want to create one	create_account
+someone stole my account password, how can I retrieve it?	recover_password
+I can't understand you, how can I speak with a human agent?	contact_human_agent
+can you tell me the email of the Customer Service?	contact_customer_service
+id like information and i want to talk to fucking client service, please	contact_customer_service
+I got an error message when I tried to make a payment, but I was charged anyway, inform of it	payment_issue
+I want to know how I can obtain an invoice	get_invoice
+my online account's been hacked, what should I do to get it back?	recover_password
+I changed my mind, how do I close my user account?	delete_account
+I haven't got a  user account	create_account
+I have an issue making a payment, how can I inform of it?	payment_issue
+I got an error message when I tried to make a payment, but my card was charged anyway, inform of it	payment_issue
+I have an issue paying for my order, can I notify it?	payment_issue
+I want to use mmy other user account, how do I change them?	switch_account
+you aren't helping, how do I speak with someone?	contact_human_agent
+i lost my invoice and id like to view it	check_invoices
+cluld i solve issues with my payment?	payment_issue
+my user account has been hacked, what can i do to recover it ?	recover_password
+I have a problem when trying to pay for my order, what should I do to inform of it?	payment_issue
+I have a problem when trying to make a payment, what do I have to do to inform of it?	payment_issue
+i want a fucking reimbursement, help me request one	get_refund
+I want o see the email of Client eSrvice	contact_customer_service
+where to view the ticket delivery options	delivery_options
+where can I leave a review for a service?	review
+tell me what payment optins you accept	check_payment_methods
+I need information, I need help sending an email to Customer Support	contact_customer_service
+I wanna track my order, tell me where to do it, please	track_order
+can you show me information about the delivery period for my tickets?	delivery_period
+i wanna open a user account, what should i do?	create_account
+I have a problem when trying to pay with card, what should I do to inform of it?	payment_issue
+I want to use my other profile	switch_account
+I have a question, can you speak with Customer Service?	contact_customer_service
+the concert was cancelled and i wanna request a refund	get_refund
+ask an agent where i can receive a refund	get_refund
+tell me how I can modify my order	change_order
+please, ask an agent what the fucking phone number to contact client service is	contact_customer_service
+I want information about the options for delivery	delivery_options
+where do i change to another profile?	switch_account
+where can I check my invoice?	check_invoices
+I don't want my use account, how do I close it?	delete_account
+I have a problem making a payment with card, can I notify it?	payment_issue
+I can't remember my account password, help me retrieve it	recover_password
+I bought an item, what do I have to do to change my purchase?	change_order
+can you ask an agent how I could view the status f my purchase?	track_order
+the shw was cancelled, how do i get a refund ?	get_refund
+I purchased an item, how do I modify my order?	change_order
+I need information about the cancellation fee	check_cancellation_fee
+I've got no user account, could you open one?	create_account
+I would like to use my other profile, what should I do to switch them?	switch_account
+I want to know the status of my refund, how can I track it?	track_refund
+registration issues	registration_problems
+the game was postponed, request a refund	get_refund
+i got an error message when i tried to make a payment, but my card was charged anyway, what do i have to do?	payment_issue
+I want to inform of a problem making a payment	payment_issue
+I  want to know what the hours of Customer Service are	contact_customer_service
+can you tell me if I can create two profiles with the same email?	create_account
+where can I switch to another user account?	switch_account
+I want to lodge a consumer complaint for a service, what can I do?	complaint
+ask an agent how I could change my purchase	change_order
+can u ask an agent to talk to customer service?	contact_customer_service
+ask an agent if i can see the status of my purchase	track_order
+I want to solve a payment prbolem, can you help me?	payment_issue
+please, I want to know if I can register more than one online account with the same email address	create_account
+how to write a comment	review
+ask an agent to show me the fucking cancellation fees, please	check_cancellation_fee
+I need information and I want to contact Client Service	contact_customer_service
+where can I switch to another online account?	switch_account
+i dont want my user account, what should i do to delete it?	delete_account
+I want to use my other online account, what should I do to switch them?	switch_account
+I ant to notify problems making a payment	payment_issue
+I want to view the options for ticket delivery, what can I do?	delivery_options
+can I obtain a bill ?	get_invoice
+I purchased an item, I need help modifying my purchase	change_order
+I want to speak with Client Service	contact_customer_service
+I can't remember my account password, what should I do to retrieve it?	recover_password
+my account was hacked, how can I recover it?	recover_password
+can I write an opinion?	review
+I've got no online account, can I create one?	create_account
+could u ask an agent where i can inform of fucking issues making a payment?	payment_issue
+I have an issue when trying to make a payment, I need help notifying it, please	payment_issue
+I need help calling Client Service	contact_customer_service
+I'm having a problem signing up	registration_problems
+I changed my mind, can you remove my online account?	delete_account
+I can't remember my account password and I'd like to recover it	recover_password
+I lost my invoices and I'd like to check them	check_invoices
+you're not helping, what should I do to contact a person?	contact_human_agent
+I didn't receive my invoices and I want to view them	check_invoices
+I don't have a shipping address and I want to set one up	set_up_shipping_address
+I want to know where to modify my order	change_order
+can you send me some bills?	get_invoice
+I got an error message when I tried to pay, but my card was charged anyway, notify it	payment_issue
+I have an issue making a payment and I would like to notify it	payment_issue
+ask an agent to provide information about my invoices	check_invoices
+i cant understand you, what should i do to contact a human agent?	contact_human_agent
+how can I call Customer Support?	contact_customer_service
+can u contcat someone?	contact_human_agent
+can you ask an agent what my package of ym fucking shipment is, please ?	track_order
+my profile's been hacked, can I get it back?	recover_password
+lpease, can u find information about the options for delivery?	delivery_options
+my online account's been hacked, can I recover it?	recover_password
+someone stole my account password, retrieve it	recover_password
+I want to report problems making a payment	payment_issue
+I have a problem when trying to make a payment with card, how can I inform of it?	payment_issue
+I need help tracking my order	track_order
+I need help obtaining a reimbursement	get_refund
+how can I see your money back policy ?	check_refund_policy
+can you ask an agent where I can check my  delivery?	track_order
+I didn't get a payment confirmation, can you help me?	payment_issue
+an error pops when i attempt to make a payment for my online order, what can i do?	payment_issue
+an error message pops when i try to make a payment for my order, what can i do?	payment_issue
+I haven't got a profile, I need help creating one	create_account
+where to download a bil	get_invoice
+can I report an issue making a payment?	payment_issue
+do you mind asking an agent how I can obtain an invoice?	get_invoice
+my user account was hacked, how can I recover it?	recover_password
+I don't have a profile and I want to create one	create_account
+where can I report issues with my payment?	payment_issue
+i can't find my bills and i want to view them	check_invoices
+I wanna know how to request some bills	get_invoice
+please, can you ask an agent if I can make changes to my fucking shipping address?	change_shipping_address
+can u ask an agent to provide information about the status of my purchase?	track_order
+I want to inform of an issue paying, what do I have to do?	payment_issue
+can i register two accounts with a single email address?	create_account
+can you tell me if I can make a payment with Amex?	check_payment_methods
+do you mind asking an agent where to track my orders?	track_order
+can you tell me if i can create several online accounts with a single email address?	create_account
+please, can you ask an agent where I can receive a refund?	get_refund
+someone stole my password, can u help  me?	recover_password
+I don't like the service, help me file a consumer complaint	complaint
+the concert was cancelled, how do I get a refund?	get_refund
+how t talk to  Customer Service	contact_customer_service
+i want to check my orders, can you tell me where I can do it?	track_order
+i want an account and i wanna open one, please	create_account
+I haven't got an online account, what do I have to do to create one?	create_account
+I have an issue when trying to pay for my online order, what should I do to notify it?	payment_issue
+I got an error message when I attempted to make a payment, but I was charged anyway, can you notify it?	payment_issue
+what are the hours of Customer Support?	contact_customer_service
+help me contact someone	contact_human_agent
+I'm happy with the service, what should I do to file an opinion?	review
+I want to see the cancellation fees	check_cancellation_fee
+im discontent with the service, could u submit a fucking consumer complaint, please?	complaint
+i want a refund, what should i do to request one?	get_refund
+I got an error message when I tried to make a payment, but my card was charged anyway, what do I have to do to report it?	payment_issue
+I can't understand you, how do I speak with a human agent?	contact_human_agent
+I got an error when I tried to make a payment, but I was charged anyway, what do I have to do?	payment_issue
+can you tell me when my tickets are gonna arrive?	delivery_period
+I  need help informing of problems with my payment	payment_issue
+i wanna see the status of my refund, what should i do?	track_refund
+I'd like to remove my user account, how could I do it?	delete_account
+i have no shipping address, can u set it up?	set_up_shipping_address
+I need help trackign y orders	track_order
+I haven't got an account, what should I do to open one?	create_account
+can you tell me the free number of Client Service?	contact_customer_service
+please , could you ask an agent to solve issues paying?	payment_issue
+the event was cancelled, request a refund	get_refund
+I don't understand you, what should I do to contact a human agent?	contact_human_agent
+ask an agent if I could retrieve my fucking account password, please	recover_password
+could you ask an agent how I can check my bill, please?	check_invoices
+tell me where to track my package	track_order
+ive got no user account, could i open one?	create_account
+can you ask an agent if I could see my fucking bill ?	check_invoices
+help me update my profile	edit_account
+I changed my mind and I want to delete my account	delete_account
+someone stole my password, i need help retrieving it	recover_password
+can u ask an agent where to check my order?	track_order
+im happy with the service and i wanna submit a comment	review
+I want a refund, what can I do to obtain one?	get_refund
+information about your payment options	check_payment_methods
+I changed my mind, help me close my profle	delete_account
+can you track my delivery?	track_order
+I want information, send an email to Customer Service	contact_customer_service
+I don't want my online account, what do I have to do to delete it?	delete_account
+can I inform of problems with my payment?	payment_issue
+I want to make a consumer complaint for a service	complaint
+I need information, can you speak with Client Service?	contact_customer_service
+i would like to get information about subscribing to the fucking newsletter	newsletter_subscription
+I lost my account password	recover_password
+I would like to lodge an opinion for a service, can you help me?	review
+the event was postponed, how can i request a reimbursement?	get_refund
+you arent helping , whta can i do to contact a human?	contact_human_agent
+how can i check the options for ticket delivery?	delivery_options
+how can I make changes to the information on my profile?	edit_account
+I need information about getting a bill	get_invoice
+an error pops when I attempt to pay for my online order, what should I do?	payment_issue
+i wanna know what the free number to contact customer service is	contact_customer_service
+im not happy with the service, what should i do to submit a consumer complaint?	complaint
+I  have a problem when trying to pay, help me report it	payment_issue
+i have a problem when trying to make a payment with card, what can i do to inform of it?	payment_issue
+the show was postponed, what do i have to do to obtain a reimbursement?	get_refund
+I didn't receive my invoice, what should I do to check it?	check_invoices
+I changed my mind, can you delete my account?	delete_account
+I want information, how do I talk to Customer Service?	contact_customer_service
+i have an issue paying for my order, can u report it?	payment_issue
+can i vfiew your money back policy?	check_refund_policy
+I haven't got an account , how can I register?	create_account
+download an invoice	get_invoice
+how can I speak with Client Service?	contact_customer_service
+i get an error message when i attempt to pay with card, can u help me?	payment_issue
+I want a reimbursement, can I obtain one?	get_refund
+I changed my mind, close my profile	delete_account
+I don't want my user account, what do I have to do to close it?	delete_account
+I bought somethikng, how can I change my order?	change_order
+where to check the cancellation penalty	check_cancellation_fee
+id like to see the mail address of the Customer Support	contact_customer_service
+i wanna see the mail of customer service	contact_customer_service
+I'm not happy with the service, what do I have to do to lodge a complaint?	complaint
+I have an issue making a payment, what do  I have to do to notify it?	payment_issue
+I sould like to make a fucking opinion, what do I have to do?	review
+please, could u ask an agent where i can check the cancellation fee?	check_cancellation_fee
+I got an error message when I attempted to pay, but my card was charged anyway, notify it	payment_issue
+I don't know anything about your money back guarantee	check_refund_policy
+how do I check the cancellation penalty?	check_cancellation_fee
+could u ask an agent where i can report issues making a payment?	payment_issue
+ca oyu tell me the email to contact Client Service?	contact_customer_service
+the concert was cancelled and i wanna get a refund	get_refund
+I have an issue paying for my order, how can I notify it ?	payment_issue
+ask an agent  how I could see my invoice	check_invoices
+how do I view out reimbursement policy?	check_refund_policy
+I got an error message when I attempted to pay, but I was charged anyway, what should I do?	payment_issue
+please, can you tell me if i could create several profiles with a single email?	create_account
+where do i notify an issue paying?	payment_issue
+please, tell me if i could get a bill	get_invoice
+could u ask an agent where to notify fucking issues making a payment?	payment_issue
+how can I change to another user account?	switch_account
+i get an error message when i attempt to pay, can u help me?	payment_issue
+tell me how I can request a bill	get_invoice
+i want to see the email address to contact customer service	contact_customer_service
+where can I report a payment issue?	payment_issue
+I made a mistake, can i modify my fucking order?	change_order
+show me the phone number of Customer Support	contact_customer_service
+i have an issue when trying to pay, help me report it	payment_issue
+please, could you ask an agent if I can track my package?	track_order
+I want to make a review for a service, what do I have to do?	review
+the event was postponed, can I get a refund?	get_refund
+tell me if I can track my delivery	track_order
+ask an agent how I could see my invoices	check_invoices
+i want to know how to download some bills	get_invoice
+can u ask an agent how to create a profile?	create_account
+how can I subscribe to the newsletter?	newsletter_subscription
+could u ask an agent how i can check the ticket delivery options?	delivery_options
+I have aproblem making a payment, I need help notifying it	payment_issue
+someone stole my account password, can you retrieve it?	recover_password
+the payment didnt go through, can u help me?	payment_issue
+I bought an item, help me change my order	change_order
+I have a prbolem making a payment, how do I notify it?	payment_issue
+how to file a consumer complaint for a service	complaint
+I want information and I want to speak with Client Service	contact_customer_service
+I changed my mind and I want to cancel my profile	delete_account
+I have a problem when trying to pay with card, help me inform of it	payment_issue
+my user account's been hacked, what should I do to get it back?	recover_password
+i dont have an account, what do i have to do to create one?	create_account
+i wanna solve issues with my payment	payment_issue
+I need help checking the status of my order	track_order
+i need information, how could i call customer service?	contact_customer_service
+could u ask an agent how i could write a fucking comment for a service, please?	review
+my user account's been hacked, help me recover it	recover_password
+I have a problem when trying to pay for my order, how can I report it?	payment_issue
+what information can you tell me about obtaining an nivoice?	get_invoice
+I can't find my invoice, can I chedk it?	check_invoices
+can I create two accounts with a single email address?	create_account
+you're not helping, what can I do to talk to a human?	contact_human_agent
+obtain a bill	get_invoice
+I want to file an opinion, what can I do?	review
+i want to use my other user account, i need help changing them	switch_account
+ask an agent if i can view my bills	check_invoices
+ask an agent to notify issues with my payment	payment_issue
+can I change to another online account?	switch_account
+I cannot understand you, could I speak with a human, please?	contact_human_agent
+i lost my password and i wanna recover it	recover_password
+whats the mail of customer service?	contact_customer_service
+youre not helping, can i talk to a human?	contact_human_agent
+I want to know if I can create more than one online account with the same email address	create_account
+my profile's been hacked, what can I do?	recover_password
+I want information about requesting some invoices	get_invoice
+i get an error message when i attempt to make a payment for my online order	payment_issue
+i wanna know if i could register two fucking online accounts with a single email , please	create_account
+how to inform of payment issues	payment_issue
+I have an issue when trying to pay for my online order	payment_issue
+how can I receivew a  reimbursement?	get_refund
+please, ask an agent about the status of my purchase	track_order
+ive got no account, what should i do to open one?	create_account
+where do I view my bills?	check_invoices
+I need help informing of an issue paying	payment_issue
+ask an agent how to reset my account password	recover_password
+can yuou  tell me if I can have more than one online account?	create_account
+I don't understand you, what do I have to do to speak with a human agent?	contact_human_agent
+please, can you ask an agent if I can report payment issues?	payment_issue
+I lost my bills and I want to see them	check_invoices
+i got an error when i tried to pay, but i was charged anyway, what can i do?	payment_issue
+can you tell me what the mail address to contact Client Service is?	contact_customer_service
+I want to solve a problem making a payment, can you help me?	payment_issue
+I haven't got a profile, what should I do?	create_account
+I need information, what can I do to call Customer Service?	contact_customer_service
+talk to a human	contact_human_agent
+I made a mistake, what should I do to change my order?	change_order
+please, can you ask an agent where I could notify problems making a payment?	payment_issue
+whree can I make a complaint?	complaint
+where to file a consumer complaint	complaint
+I got an error message when I tried to pay, but I was charged anyway, how do I report it?	payment_issue
+I forgot my password	recover_password
+I have an issue making a payment, inform of it	payment_issue
+i got an error when i attempted to make a payment, but my card was charged anyway, help me report it	payment_issue
+I wanna ask for information about requesting some bills	get_invoice
+I want to get an invoice, tell me how I can do it	get_invoice
+can you tell me how soon i can expect my tickets to arrive?	delivery_period
+I want a profile, how do I create one?	create_account
+i wanna inform of a payment issue	payment_issue
+I haven't got an account, I need help registering	create_account
+how can I report a payment issue?	payment_issue
+I get an error message hen I try to make a payment for my online order	payment_issue
+I have a question and I'd like to send an email to fucking Client Service	contact_customer_service
+i have an issue making a payment , can i notify it?	payment_issue
+can i check the status of my order?	track_order
+can I request a reimbursement?	get_refund
+i wanna notify a problem with my payment	payment_issue
+how to solve issues paying	payment_issue
+can you check my invoices?	check_invoices
+tell me how I can know where my deliveries are	track_order
+could you ask an agent if I can check my shipment, please?	track_order
+I want to check the ticket delivery options, can you help me?	delivery_options
+where can i view my bill?	check_invoices
+I want to know if I can register several online accounts with a single email	create_account
+I want to know if I can register more than one account with the same email address	create_account
+i wanna check the cancellation fee, what should i do?	check_cancellation_fee
+could you ask an agent how to report issues paying ?	payment_issue
+I purchased something and I wanna change my order	change_order
+I have no account, what should I do to register?	create_account
+please, ask an agent what I can obtain a fucking reimbursement for	get_refund
+how can I recover my account password?	recover_password
+I'm not happy with the service, lodge a complaint	complaint
+ask an agent where to edit my shipping address	change_shipping_address
+show me the mail of the Customer Support	contact_customer_service
+I want to submit an complaint for a service, what can I do?	complaint
+how to check the cancellation penalties	check_cancellation_fee
+I have an issue when trying to pay, how do I report it?	payment_issue
+where to subscribe to the newsletter	newsletter_subscription
+how to send an email to Customer Support	contact_customer_service
+how do i switch to another usre account?	switch_account
+I can't find my invoices, what do I have to do to check them?	check_invoices
+where do I request an invoice?	get_invoice
+I don't want my profile, close it	delete_account
+I want to make a review, can you help me?	review
+can u ask an agent where i could check my bills?	check_invoices
+i would like to download a fucking bill, can you show me some information?	get_invoice
+how can I track my shipments?	track_order
+ask an agent if i can obtain some invoices	get_invoice
+could you ask an agent where to request a refund, please?	get_refund
+I want to view your refund policy, what can I do ?	check_refund_policy
+I ordered an item, help me modify my purchase	change_order
+I haven't got an account, what can I do?	create_account
+I got an error when I tried to make a payment, but I was charged anyway, what can I do to notify it?	payment_issue
+I can't find my bills, can you show them?	check_invoices
+I purchased a product, what do i have ot do to change my order?	change_order
+please, can you ask an agent what the mail to contact Client Service is?	contact_customer_service
+I don't want my profile, what can I do to remove it?	delete_account
+i wanna use my other user account, can u change them?	switch_account
+tell me if I can register more than one account with a single email	create_account
+an error pops when i attempt to make a payment, what can i do?	payment_issue
+I bought an item, how may I modify my purchase?	change_order
+an error pops when I attempt to pay for my order, what do I have to do?	payment_issue
+how to send an email to Client Service	contact_customer_service
+can I view your payment options?	check_payment_methods
+i cant remember my account password, i need help resetting it	recover_password
+can u ask an agent for information about my invoices?	check_invoices
+where can I inform of a problem with my payment?	payment_issue
+can you tell me where to check my packages?	track_order
+can u ask an agent to give me information about the delivery options?	delivery_options
+I need help seeing your money back guarantee	check_refund_policy
+I got an error message when I attempted to make a payment, but my card was charged anyway, how can I report it?	payment_issue
+where can I inform of a payment problem?	payment_issue
+how can I change my shipping address?	change_shipping_address
+I wanna know how to check my shipemnts	track_order
+i want to close my profile	delete_account
+can u ask an agent where i could report fucking issues making a payment, please?	payment_issue
+ask an agent how to inform of a problem with my payment	payment_issue
+help me view the cancellation fees	check_cancellation_fee
+I haven't got an account, create one	create_account
+download a bill	get_invoice
+i got an reror mesage when i attempted to pay, but i was charged anyway and i want to notify it	payment_issue
+ask an agent how i can recover my account password, please	recover_password
+were can I notify payment problems?	payment_issue
+i want to know if i can pay with card	check_payment_methods
+the game was postponed, how do I obtain a reimbursement?	get_refund
+I want to use my other profile, can you change them?	switch_account
+I've got no online account, how can I create one?	create_account
+I get an error message when I try to make a payment for my order	payment_issue
+can you show me the number to contact Client Service?	contact_customer_service
+where do I cancel my profile?	delete_account
+can u ask an agent for information about obtaining an invoice?	get_invoice
+i got an error message when i tried to pay, but i was charged anyway, can u notify it?	payment_issue
+you're not helping, can you talk to a human agent?	contact_human_agent
+can oyu ask an agent how I can notify problems with my payment, please ?	payment_issue
+I got an error when I tried to pay, but I was charged anyway, help me report it	payment_issue
+how to edit my profile	edit_account
+I want to make a complaint	complaint
+I have a problem paying for my online order, what do I have to do to notify it?	payment_issue
+I got an error message when I attempted to pay, but my card was charged anyway, help me inform of it	payment_issue
+ask an agent how I could solve a fucking problem making a payment, please	payment_issue
+I don't have anaccount, can I register?	create_account
+I purchased an item, how do I modify my purchase?	change_order
+where do i see the cancellation fee?	check_cancellation_fee
+can you tell me if i can register several accounts with a single email address?	create_account
+i wanna inform of issues with my payment	payment_issue
+can you tell me how I can track my shipments?	track_order
+I have an issue when trying to pay for my order and I want to inform of it	payment_issue
+I want to use my other account, I need help changing them	switch_account
+can you ask an agent when I will get a fucking reimbursement, please?	get_refund
+can u ask an agent when I will obtain a refund?	get_refund
+can tou tell me where to download a bill?	get_invoice
+how could I leave a fucking review?	review
+I got an error message when I tried to make a payment, but my card was charged anyway, I need help reporting it	payment_issue
+I have a question, how do I call Customer Service?	contact_customer_service
+I don't like the service, can I lodge a complaint?	complaint
+please, could you tell me if i could create several user accounts with the same email address?	create_account
+you ar not helping , could you contact a fucking human agent?	contact_human_agent
+the event was postponed, what can i do?	get_refund
+I want to request information about downloading some bills	get_invoice
+help me see your payment methods	check_payment_methods
+I'd like to make a comment, what can I do?	review
+I forgot my password, reset it	recover_password
+I want to know if I can obtain a bill	get_invoice
+I'm not happy with the service, how can I file a complaint?	complaint
+I changed my mind, how do I remove my online account ?	delete_account
+i have an issue paying for my online order, help me inform of it	payment_issue
+how do I check my packages?	track_order
+where can I write a review?	review
+how can I notify an issue paying?	payment_issue
+can you tell me if I can register two accounts with a single email address?	create_account
+please, ask an agent to inform of an issue making a payment	payment_issue
+I have an issue making a payment with card and I want to notify it, please	payment_issue
+I need help solving problems paying	payment_issue
+where do I check the status of my refund?	track_refund
+I have an issue paying with card, how can I report ot?	payment_issue
+I need information, what can I do to call Customer Support?	contact_customer_service
+I didn't receive my fucking invoices, could I view them?	check_invoices
+could u ask an agent how i can receive a reimbursement?	get_refund
+I can't understand you, I need help contacting an human	contact_human_agent
+i get an error message when i attempt to make a payment with card	payment_issue
+I don't want my account, what can I do to delete it?	delete_account
+I lost my bill, help me view it	check_invoices
+I don't understand you and I want to talk to someone	contact_human_agent
+I want to speak with a human agent	contact_human_agent
+can you tell me the nbumber of client service?	contact_customer_service
+I have an issue paying with card, I need help informing of it	payment_issue
+I don't like the service, can you submit a complaint?	complaint
+i wanna know what the hours of customer setvice are	contact_customer_service
+what's the number to contact Customer Service?	contact_customer_service
+id like to place an order, what can i do?	place_order
+my online account was hacked , what do I have to do to get it back?	recover_password
+I want to know if I can create two user accounts with a single email	create_account
+i got an error when i attempted to pay, but my card was charged anyway, report it	payment_issue
+someone stole my password and I want to reset it	recover_password
+I have a problem when trying to make a payment with card, what can I do?	payment_issue
+I don't want my account, what should I do to cancel it?	delete_account
+where do i check the cancellation penalties?	check_cancellation_fee
+i dont like the service, file a consumer complaint	complaint
+I need  information, can you call Clkent Service?	contact_customer_service
+the game was postponed, how can I request a reimbursement?	get_refund
+i wanna notify an issue paying, can u help me?	payment_issue
+can you ask an agent if Customer Service is available?	contact_customer_service
+i want to download a bill, can you tell me how I can do it?	get_invoice
+i wanna check my fucking shipment, can you tell me how to do it?	track_order
+I'm not happy with the service, can you submit a complaint?	complaint
+I got an error message when I tried to pay, but I was charged anyway, what do I have to do to notify it?	payment_issue
+i need a refund, what can i do to obtain one?	get_refund
+i have an issue when trying to pay for my online order, ineed help reporting it	payment_issue
+i got an error when i attempted to make a payment, but i was charged anyway, notify it	payment_issue
+i wanna lodge an poinion, what can i do?	review
+I lost my invoice, what should I do to check it?	check_invoices
+can you tell me if I can check my orders?	track_order
+ask an agent how I can know where my delivery is	track_order
+speak with an person	contact_human_agent
+i dont want my profole, cancel it	delete_account
+I'm happy with the service, can you lodge a review?	review
+I want a reimbursement, get one	get_refund
+I don't understand you, spaek with someone	contact_human_agent
+information about the options for ticket delivery	delivery_options
+I've got no online account, how do I create one ?	create_account
+I don't understand you, how do I talk to a human?	contact_human_agent
+I purchased a product, can I modify my purchase?	change_order
+can you show me the email address to contact Client Service?	contact_customer_service
+I can't find my bill, I need help checking it	check_invoices
+ask an agent where I acn receive the newsletter	newsletter_subscription
+please, ask an agent how to remove my profile	delete_account
+can you tell me what the mail of the Client Service is?	contact_customer_service
+can you tell me if I can pay with Master Card?	check_payment_methods
+i want information, how do i talk to customer support?	contact_customer_service
+i wanna know something about obtaining some bills	get_invoice
+I want to know if I can check my package	track_order
+I want to obtain a bill, can you show me some information?	get_invoice
+you're not helping, can you talk to a human?	contact_human_agent
+I need help editing my shipping address	change_shipping_address
+I don't have an account, what should I do to open one?	create_account
+ask an agent where to get a refund	get_refund
+I made a mistake, how do I modify my purchase?	change_order
+could u ask an agent if i can see the tsatus of my fucking purchase?	track_order
+id like information, can u speak with customer support, please?	contact_customer_service
+i want to check your refund policy , can u help me?	check_refund_policy
+i want to receive the newsletter, tell me where to do it	newsletter_subscription
+I don't have an online account, register	create_account
+I get an error message when I attempt to make a payment, what should I do?	payment_issue
+I want to know if there is any human agent available	contact_human_agent
+i need information, can u contact customer service?	contact_customer_service
+my account was hacked, what do I have to do to get it back?	recover_password
+you are not helping and I'd like to speak with a person	contact_human_agent
+I need help notifying problems with my payment	payment_issue
+how to solve problems with my payment	payment_issue
